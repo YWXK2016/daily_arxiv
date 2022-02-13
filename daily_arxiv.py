@@ -211,18 +211,18 @@ if __name__ == "__main__":
     # json data to markdown
     json_to_md(json_file,md_file)
 
-    # 2. update docs/index.md file
-    json_file = "./docs/cv-arxiv-daily-web.json"
-    md_file   = "./docs/index.md"
-    # update json data
-    update_json_file(json_file,data_collector)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web = True)
+#     # 2. update docs/index.md file
+#     json_file = "./docs/cv-arxiv-daily-web.json"
+#     md_file   = "./docs/index.md"
+#     # update json data
+#     update_json_file(json_file,data_collector)
+#     # json data to markdown
+#     json_to_md(json_file, md_file, to_web = True)
 
-    # 3. Update docs/wechat.md file
-    json_file = "./docs/cv-arxiv-daily-wechat.json"
-    md_file   = "./docs/wechat.md"
-    # update json data
-    update_json_file(json_file, data_collector_web)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web=False, use_title= False)
+#     # 3. Update docs/wechat.md file
+#     json_file = "./docs/cv-arxiv-daily-wechat.json"
+#     md_file   = "./docs/wechat.md"
+#     # update json data
+#     update_json_file(json_file, data_collector_web)
+#     # json data to markdown
+#     json_to_md(json_file, md_file, to_web=False, use_title= False)
