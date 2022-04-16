@@ -45,7 +45,9 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
+          git config --global --add safe.directory /home/runner/work/daily_arxiv/daily_arxiv
           python daily_arxiv.py
+          
           
       - name: Push new readme.md
         uses: github-actions-x/commit@v2.8
