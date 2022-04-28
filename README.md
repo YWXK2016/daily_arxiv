@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
+|**2022-04-27**|**Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**|Wenyu Li et.al.|[2204.12769v1](http://arxiv.org/abs/2204.12769v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
 |**2022-04-23**|**Indoor simultaneous localization and mapping based on fringe projection profilometry**|Yang Zhao et.al.|[2204.11020v1](http://arxiv.org/abs/2204.11020v1)|null|
 |**2022-04-22**|**Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**|Julio A. Placed et.al.|[2204.10631v1](http://arxiv.org/abs/2204.10631v1)|null|
@@ -114,6 +116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
 |**2022-04-22**|**Transferring ConvNet Features from Passive to Active Robot Self-Localization: The Use of Ego-Centric and World-Centric Views**|Kanya Kurauchi et.al.|[2204.10497v1](http://arxiv.org/abs/2204.10497v1)|null|
 |**2022-04-15**|**Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**|Hanjing Ye et.al.|[2204.07350v1](http://arxiv.org/abs/2204.07350v1)|**[link](https://github.com/medlartea/cae-vpr)**|
 |**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
@@ -187,6 +190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-27**|**Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**|Chao Li et.al.|[2204.12884v1](http://arxiv.org/abs/2204.12884v1)|null|
 |**2022-04-22**|**SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**|Runzhe Zhu et.al.|[2204.10704v1](http://arxiv.org/abs/2204.10704v1)|**[link](https://github.com/Reza-Zhu/SUES-200-Benchmark)**|
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268v1](http://arxiv.org/abs/2204.09268v1)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870v1](http://arxiv.org/abs/2204.08870v1)|**[link](https://github.com/ucuapps/openglue)**|
