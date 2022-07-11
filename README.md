@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**BlindSpotNet: Seeing Where We Cannot See**|Taichi Fukuda et.al.|[2207.03870v1](http://arxiv.org/abs/2207.03870v1)|null|
+|**2022-07-08**|**Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints**|Philipp Glira et.al.|[2207.03785v1](http://arxiv.org/abs/2207.03785v1)|null|
+|**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu et.al.|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
+|**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
 |**2022-07-06**|**VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**|Marius Laska et.al.|[2207.02668v1](http://arxiv.org/abs/2207.02668v1)|null|
 |**2022-07-06**|**A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**|Axel Garcia-Vega et.al.|[2207.02396v1](http://arxiv.org/abs/2207.02396v1)|null|
 |**2022-07-04**|**VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**|Ling Gao et.al.|[2207.01404v1](http://arxiv.org/abs/2207.01404v1)|null|
@@ -168,6 +172,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**Learning Sequential Descriptors for Sequence-based Visual Place Recognition**|Riccardo Mereu et.al.|[2207.03868v1](http://arxiv.org/abs/2207.03868v1)|**[link](https://github.com/vandal-vpr/vg-transformers)**|
 |**2022-06-28**|**Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**|Stephen Hausler et.al.|[2206.13883v1](http://arxiv.org/abs/2206.13883v1)|null|
 |**2022-07-08**|**How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**|Tobias Fischer et.al.|[2206.13673v2](http://arxiv.org/abs/2206.13673v2)|null|
 |**2022-06-25**|**FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**|Yongzhi Fan et.al.|[2206.12628v1](http://arxiv.org/abs/2206.12628v1)|null|
@@ -224,6 +229,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
 |**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v1](http://arxiv.org/abs/2207.02976v1)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-24**|**Motion Estimation for Large Displacements and Deformations**|Qiao Chen et.al.|[2206.12464v1](http://arxiv.org/abs/2206.12464v1)|null|
