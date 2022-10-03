@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann et.al.|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
