@@ -1,4 +1,4 @@
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 ## SLAM
 
@@ -367,7 +367,7 @@
 |**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|**[link](https://github.com/ucsdarclab/thread-reconstruction)**|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-26**|**Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments**|Kyungmin Jung et.al.|[2209.12881v1](http://arxiv.org/abs/2209.12881v1)|null|
-|**2022-09-21**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v1](http://arxiv.org/abs/2209.10385v1)|null|
+|**2022-10-07**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v2](http://arxiv.org/abs/2209.10385v2)|null|
 |**2022-09-20**|**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**|Sunghwan Hong et.al.|[2209.08742v2](http://arxiv.org/abs/2209.08742v2)|null|
 |**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|**[link](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**|
 |**2022-09-07**|**Deep Learning-Based Automatic Diagnosis System for Developmental Dysplasia of the Hip**|Yang Li et.al.|[2209.03440v1](http://arxiv.org/abs/2209.03440v1)|null|
