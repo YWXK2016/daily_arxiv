@@ -1,4 +1,4 @@
-## Updated on 2022.10.17
+## Updated on 2022.10.18
 
 ## SLAM
 
@@ -380,7 +380,7 @@
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
 |**2022-09-28**|**Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**|Jun-Jee Chao et.al.|[2209.14419v1](http://arxiv.org/abs/2209.14419v1)|null|
 |**2022-09-28**|**USEEK: Unsupervised SE(3)-Equivariant 3D Keypoints for Generalizable Manipulation**|Zhengrong Xue et.al.|[2209.13864v1](http://arxiv.org/abs/2209.13864v1)|null|
-|**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|**[link](https://github.com/ucsdarclab/thread-reconstruction)**|
+|**2022-10-16**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v2](http://arxiv.org/abs/2209.13657v2)|**[link](https://github.com/ucsdarclab/thread-reconstruction)**|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-26**|**Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments**|Kyungmin Jung et.al.|[2209.12881v1](http://arxiv.org/abs/2209.12881v1)|null|
 |**2022-10-07**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v2](http://arxiv.org/abs/2209.10385v2)|null|
