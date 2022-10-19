@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
 |**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko et.al.|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
@@ -289,6 +290,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
 |**2022-10-14**|**Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique**|Connor Malone et.al.|[2210.07509v1](http://arxiv.org/abs/2210.07509v1)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
