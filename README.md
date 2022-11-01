@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
 |**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
@@ -393,6 +394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|**[link](https://github.com/norlab-ulaval/perceptreev1)**|
 |**2022-10-26**|**Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**|Zhiyuan Zhang et.al.|[2210.14899v1](http://arxiv.org/abs/2210.14899v1)|null|
 |**2022-10-23**|**Few-Shot Meta Learning for Recognizing Facial Phenotypes of Genetic Disorders**|Ömer Sümer et.al.|[2210.12705v1](http://arxiv.org/abs/2210.12705v1)|null|
 |**2022-10-21**|**Real-time Detection of 2D Tool Landmarks with Synthetic Training Data**|Bram Vanherle et.al.|[2210.11991v1](http://arxiv.org/abs/2210.11991v1)|null|
