@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-02**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa et.al.|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|
@@ -516,6 +517,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**|Jie Yang et.al.|[2302.01593v1](http://arxiv.org/abs/2302.01593v1)|**[link](https://github.com/idea-research/ed-pose)**|
+|**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-01-21**|**Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**|Feiyang Wen et.al.|[2301.08973v1](http://arxiv.org/abs/2301.08973v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2023-01-12**|**Towards High Performance One-Stage Human Pose Estimation**|Ling Li et.al.|[2301.04842v1](http://arxiv.org/abs/2301.04842v1)|null|
@@ -606,6 +609,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee et.al.|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
 |**2023-01-24**|**Feature-based Image Matching for Identifying Individual Kākā**|Fintan O'Sullivan et.al.|[2301.06678v2](http://arxiv.org/abs/2301.06678v2)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong et.al.|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
