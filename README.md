@@ -330,6 +330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-18**|**Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**|Tatsuro Yamane et.al.|[2302.09208v1](http://arxiv.org/abs/2302.09208v1)|null|
 |**2023-02-12**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen et.al.|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
 |**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen et.al.|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu et.al.|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
@@ -399,6 +400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**TBPos: Dataset for Large-Scale Precision Visual Localization**|Masud Fahim et.al.|[2302.09825v1](http://arxiv.org/abs/2302.09825v1)|null|
 |**2023-02-13**|**Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**|Shen Yan et.al.|[2302.06287v1](http://arxiv.org/abs/2302.06287v1)|null|
 |**2023-02-13**|**Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**|Binqian Jiang et.al.|[2302.06149v1](http://arxiv.org/abs/2302.06149v1)|**[link](https://github.com/lewisjiang/contour-context)**|
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
@@ -624,6 +626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997v1](http://arxiv.org/abs/2302.09997v1)|null|
 |**2023-02-10**|**General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**|Kenji Koide et.al.|[2302.05094v1](http://arxiv.org/abs/2302.05094v1)|**[link](https://github.com/koide3/direct_visual_lidar_calibration)**|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee et.al.|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
