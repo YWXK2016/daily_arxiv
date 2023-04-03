@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-31**|**Knowledge Distillation for Feature Extraction in Underwater VSLAM**|Jinghe Yang et.al.|[2303.17981v1](http://arxiv.org/abs/2303.17981v1)|**[link](https://github.com/jinghe-mel/ufen-slam)**|
 |**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|**[link](https://github.com/digiamm/ba_md_slam)**|
 |**2023-03-30**|**Toroidal cavitation by a snapping popper**|Akihito Kiyama et.al.|[2303.16702v2](http://arxiv.org/abs/2303.16702v2)|null|
 |**2023-03-29**|**AirLine: Efficient Learnable Line Detection with Local Edge Voting**|Xiao Lin et.al.|[2303.16500v1](http://arxiv.org/abs/2303.16500v1)|**[link](https://github.com/sair-lab/airline)**|
@@ -376,6 +377,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-31**|**Learning Internal Representations of 3D Transformations from 2D Projected Inputs**|Marissa Connor et.al.|[2303.17776v1](http://arxiv.org/abs/2303.17776v1)|null|
 |**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504v1](http://arxiv.org/abs/2303.17504v1)|**[link](https://github.com/cvg/limap)**|
 |**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060v1](http://arxiv.org/abs/2303.15060v1)|null|
 |**2023-03-26**|**On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**|HyunJun Jung et.al.|[2303.14840v1](http://arxiv.org/abs/2303.14840v1)|**[link](https://github.com/junggy/hammer-dataset)**|
