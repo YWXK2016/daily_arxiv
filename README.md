@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned**|Yulun Tian et.al.|[2304.04362v1](http://arxiv.org/abs/2304.04362v1)|null|
+|**2023-04-10**|**A Power Method for Computing the Dominant Eigenvalue of a Dual Quaternion Hermitian Matrix**|Chunfeng Cui et.al.|[2304.04355v1](http://arxiv.org/abs/2304.04355v1)|null|
+|**2023-04-09**|**Point-SLAM: Dense Neural Point Cloud-based SLAM**|Erik Sandström et.al.|[2304.04278v1](http://arxiv.org/abs/2304.04278v1)|**[link](https://github.com/tfy14esa/point-slam)**|
+|**2023-04-09**|**DSMNet: Deep High-precision 3D Surface Modeling from Sparse Point Cloud Frames**|Changjie Qiu et.al.|[2304.04200v1](http://arxiv.org/abs/2304.04200v1)|null|
+|**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|null|
+|**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872v1](http://arxiv.org/abs/2304.03872v1)|null|
 |**2023-04-06**|**Deep learning-based image exposure enhancement as a pre-processing for an accurate 3D colon surface reconstruction**|Ricardo Espinosa et.al.|[2304.03171v1](http://arxiv.org/abs/2304.03171v1)|null|
 |**2023-04-04**|**A Fully-automatic Side-scan Sonar SLAM Framework**|Jun Zhang et.al.|[2304.01854v1](http://arxiv.org/abs/2304.01854v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
@@ -382,6 +388,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-08**|**Photometric Correction for Infrared Sensors**|Jincheng Zhang et.al.|[2304.03930v1](http://arxiv.org/abs/2304.03930v1)|null|
 |**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|**[link](https://github.com/antabangun/dualrefine)**|
 |**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|**[link](https://github.com/joerowelll/comp0132_rjxz25)**|
 |**2023-03-31**|**Learning Internal Representations of 3D Transformations from 2D Projected Inputs**|Marissa Connor et.al.|[2303.17776v1](http://arxiv.org/abs/2303.17776v1)|null|
@@ -465,6 +472,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872v1](http://arxiv.org/abs/2304.03872v1)|null|
 |**2023-04-06**|**$R^{2}$Former: Unified $R$etrieval and $R$eranking Transformer for Place Recognition**|Sijie Zhu et.al.|[2304.03410v1](http://arxiv.org/abs/2304.03410v1)|null|
 |**2023-04-06**|**Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**|Viktor Walter et.al.|[2304.03057v1](http://arxiv.org/abs/2304.03057v1)|**[link](https://github.com/ctu-mrs/difec-ron)**|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
