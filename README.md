@@ -477,6 +477,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373v1](http://arxiv.org/abs/2304.06373v1)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947v1](http://arxiv.org/abs/2304.05947v1)|null|
 |**2023-04-12**|**Are Local Features All You Need for Cross-Domain Visual Place Recognition?**|Giovanni Barbarani et.al.|[2304.05887v1](http://arxiv.org/abs/2304.05887v1)|**[link](https://github.com/gbarbarani/re-ranking-for-vpr)**|
 |**2023-04-12**|**SGL: Structure Guidance Learning for Camera Localization**|Xudong Zhang et.al.|[2304.05571v1](http://arxiv.org/abs/2304.05571v1)|null|
@@ -635,6 +636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|null|
 |**2023-04-06**|**From Saliency to DINO: Saliency-guided Vision Transformer for Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2304.03140v1](http://arxiv.org/abs/2304.03140v1)|null|
 |**2023-03-29**|**NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud**|Xiangyu Zhu et.al.|[2303.16465v1](http://arxiv.org/abs/2303.16465v1)|null|
 |**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|**[link](https://github.com/zafirshi/panovpr)**|
@@ -744,6 +746,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|null|
 |**2023-04-07**|**ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**|Xiaoming Zhao et.al.|[2304.03608v1](http://arxiv.org/abs/2304.03608v1)|null|
 |**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v1](http://arxiv.org/abs/2304.02008v1)|**[link](https://github.com/cvg/gluestick)**|
 |**2023-04-03**|**PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**|Pedro Castro et.al.|[2304.01382v1](http://arxiv.org/abs/2304.01382v1)|null|
