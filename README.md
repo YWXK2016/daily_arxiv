@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva et.al.|[2305.02645v1](http://arxiv.org/abs/2305.02645v1)|null|
 |**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
 |**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
