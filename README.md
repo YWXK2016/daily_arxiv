@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-28**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673v1](http://arxiv.org/abs/2305.17673v1)|null|
 |**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
 |**2023-05-24**|**Towards View-invariant and Accurate Loop Detection Based on Scene Graph**|Chuhao Liu et.al.|[2305.14885v1](http://arxiv.org/abs/2305.14885v1)|null|
 |**2023-05-24**|**Robust Imaging Sonar-based Place Recognition and Localization in Underwater Environments**|Hogyun Kim et.al.|[2305.14773v1](http://arxiv.org/abs/2305.14773v1)|**[link](https://github.com/sparolab/sonar_context)**|
@@ -518,6 +519,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
+|**2023-05-29**|**Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**|Shrinkhala Sharma et.al.|[2305.18197v1](http://arxiv.org/abs/2305.18197v1)|null|
+|**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
+|**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463v1](http://arxiv.org/abs/2305.17463v1)|null|
 |**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814v1](http://arxiv.org/abs/2305.13814v1)|**[link](https://github.com/maverickpeter/vdisco)**|
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250v1](http://arxiv.org/abs/2305.12250v1)|**[link](https://github.com/javrtg/dac)**|
 |**2023-05-19**|**Learning Sequence Descriptor based on Spatiotemporal Attention for Visual Place Recognition**|Fenglin Zhang et.al.|[2305.11467v1](http://arxiv.org/abs/2305.11467v1)|null|
