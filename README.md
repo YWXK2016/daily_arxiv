@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
+|**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
+|**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao et.al.|[2307.07607v1](http://arxiv.org/abs/2307.07607v1)|null|
 |**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296v1](http://arxiv.org/abs/2307.07296v1)|null|
 |**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|**[link](https://github.com/sjtuyinjie/ground-challenge)**|
 |**2023-07-06**|**Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**|Andrew D. McRae et.al.|[2307.02941v1](http://arxiv.org/abs/2307.02941v1)|null|
@@ -560,6 +564,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417v1](http://arxiv.org/abs/2307.08417v1)|null|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
+|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v1](http://arxiv.org/abs/2307.08015v1)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321v1](http://arxiv.org/abs/2307.04321v1)|null|
 |**2023-07-04**|**Unsupervised Quality Prediction for Improved Single-Frame and Weighted Sequential Visual Place Recognition**|Helen Carson et.al.|[2307.01464v1](http://arxiv.org/abs/2307.01464v1)|null|
