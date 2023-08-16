@@ -1,4 +1,4 @@
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 
 ## SLAM
 
@@ -490,7 +490,7 @@
 |**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231v1](http://arxiv.org/abs/2308.07231v1)|null|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147v1](http://arxiv.org/abs/2308.06147v1)|null|
 |**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670v1](http://arxiv.org/abs/2308.02670v1)|null|
-|**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246v1](http://arxiv.org/abs/2308.01246v1)|null|
+|**2023-08-15**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246v2](http://arxiv.org/abs/2308.01246v2)|**[link](https://github.com/smlab-niser/tirtha-public)**|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702v2](http://arxiv.org/abs/2307.11702v2)|null|
