@@ -1,4 +1,4 @@
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 
 ## SLAM
 
@@ -944,7 +944,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949v1](http://arxiv.org/abs/2308.09949v1)|null|
+|**2023-08-22**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949v2](http://arxiv.org/abs/2308.09949v2)|null|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400v2](http://arxiv.org/abs/2308.00400v2)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460v1](http://arxiv.org/abs/2307.15460v1)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010v1](http://arxiv.org/abs/2307.12010v1)|null|
