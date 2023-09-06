@@ -1,4 +1,4 @@
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 
 ## SLAM
 
@@ -622,7 +622,7 @@
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223v1](http://arxiv.org/abs/2308.11223v1)|null|
 |**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832v1](http://arxiv.org/abs/2308.10832v1)|**[link](https://github.com/gmberton/eigenplaces)**|
-|**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566v1](http://arxiv.org/abs/2308.09566v1)|null|
+|**2023-09-04**|**3D Model-free Visual Localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566v2](http://arxiv.org/abs/2308.09566v2)|null|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459v1](http://arxiv.org/abs/2308.05459v1)|null|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250v1](http://arxiv.org/abs/2307.15250v1)|null|
@@ -838,7 +838,7 @@
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223v1](http://arxiv.org/abs/2308.11223v1)|null|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987v1](http://arxiv.org/abs/2308.09987v1)|null|
-|**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v1](http://arxiv.org/abs/2308.08479v1)|**[link](https://github.com/parskatt/dedode)**|
+|**2023-09-03**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v2](http://arxiv.org/abs/2308.08479v2)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743v1](http://arxiv.org/abs/2308.07743v1)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
