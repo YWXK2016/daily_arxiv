@@ -1,4 +1,4 @@
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 
 ## SLAM
 
@@ -7,7 +7,7 @@
 |**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
 |**2023-09-12**|**Collaborative Dynamic 3D Scene Graphs for Automated Driving**|Elias Greve et.al.|[2309.06635v1](http://arxiv.org/abs/2309.06635v1)|null|
-|**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|null|
+|**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|**[link](https://github.com/utiasasrl/starloc)**|
 |**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349v1](http://arxiv.org/abs/2309.05349v1)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
 |**2023-09-10**|**Benchmarking ground truth trajectories with robotic total stations**|Effie Daum et.al.|[2309.05134v1](http://arxiv.org/abs/2309.05134v1)|null|
@@ -639,7 +639,7 @@
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
 |**2023-08-25**|**Enhancing Landmark Detection in Cluttered Real-World Scenarios with Vision Transformers**|Mohammad Javad Rajabi et.al.|[2308.13671v1](http://arxiv.org/abs/2308.13671v1)|null|
-|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
+|**2023-09-14**|**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**|Jinze Bai et.al.|[2308.12966v2](http://arxiv.org/abs/2308.12966v2)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223v1](http://arxiv.org/abs/2308.11223v1)|null|
 |**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832v1](http://arxiv.org/abs/2308.10832v1)|**[link](https://github.com/gmberton/eigenplaces)**|
