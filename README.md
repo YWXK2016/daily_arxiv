@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
+|**2023-09-26**|**Volumetric Semantically Consistent 3D Panoptic Mapping**|Yang Miao et.al.|[2309.14737v1](http://arxiv.org/abs/2309.14737v1)|null|
+|**2023-09-26**|**Ambient-Aware LiDAR Odometry in Variable Terrains**|Mazeyu Ji et.al.|[2309.14641v1](http://arxiv.org/abs/2309.14641v1)|null|
+|**2023-09-26**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations**|Minwoo Jung et.al.|[2309.14590v1](http://arxiv.org/abs/2309.14590v1)|null|
+|**2023-09-25**|**Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion**|Christopher L. Choi et.al.|[2309.14514v1](http://arxiv.org/abs/2309.14514v1)|**[link](https://github.com/chutsu/yac)**|
 |**2023-09-26**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v2](http://arxiv.org/abs/2309.14063v2)|null|
 |**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
 |**2023-09-24**|**Motion Segmentation from a Moving Monocular Camera**|Yuxiang Huang et.al.|[2309.13772v1](http://arxiv.org/abs/2309.13772v1)|null|
