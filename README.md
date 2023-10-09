@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|null|
+|**2023-10-06**|**Dense Random Texture Detection using Beta Distribution Statistics**|Soeren Molander et.al.|[2310.04111v1](http://arxiv.org/abs/2310.04111v1)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650v1](http://arxiv.org/abs/2310.02650v1)|null|
 |**2023-10-03**|**A 3D Mixed Reality Interface for Human-Robot Teaming**|Jiaqi Chen et.al.|[2310.02392v1](http://arxiv.org/abs/2310.02392v1)|**[link](https://github.com/cvg/hololens_ros)**|
 |**2023-10-03**|**Collaborative Active SLAM: Synchronous and Asynchronous Coordination Among Agents**|Matteo Maragliano et.al.|[2310.01967v1](http://arxiv.org/abs/2310.01967v1)|null|
@@ -674,6 +676,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer**|Yifan Xu et.al.|[2310.04099v1](http://arxiv.org/abs/2310.04099v1)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650v1](http://arxiv.org/abs/2310.02650v1)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092v1](http://arxiv.org/abs/2310.01092v1)|null|
 |**2023-10-05**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260v3](http://arxiv.org/abs/2309.17260v3)|null|
@@ -902,7 +905,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404v1](http://arxiv.org/abs/2310.01404v1)|null|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404v1](http://arxiv.org/abs/2310.01404v1)|**[link](https://github.com/YanjieZe/H-InDex)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|**[link](https://github.com/sthalles/clove)**|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
