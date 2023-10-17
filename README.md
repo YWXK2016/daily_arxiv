@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
 |**2023-10-11**|**Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions**|Simon-Pierre Deschênes et.al.|[2310.07844v1](http://arxiv.org/abs/2310.07844v1)|null|
 |**2023-10-10**|**Efficient Graduated Non-Convexity for Pose Graph Optimization**|Wonseok Kang et.al.|[2310.06765v1](http://arxiv.org/abs/2310.06765v1)|**[link](https://github.com/SNU-DLLAB/EGNC-PGO)**|
@@ -687,6 +688,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984v1](http://arxiv.org/abs/2310.06984v1)|null|
 |**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906v1](http://arxiv.org/abs/2310.06906v1)|null|
