@@ -1,4 +1,4 @@
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 
 ## SLAM
 
@@ -726,7 +726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186v1](http://arxiv.org/abs/2311.13186v1)|null|
+|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186v1](http://arxiv.org/abs/2311.13186v1)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian et.al.|[2311.12245v1](http://arxiv.org/abs/2311.12245v1)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514v1](http://arxiv.org/abs/2311.07514v1)|null|
