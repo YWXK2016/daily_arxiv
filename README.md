@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting**|Vladimir Yugay et.al.|[2312.10070v1](http://arxiv.org/abs/2312.10070v1)|null|
 |**2023-12-15**|**PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment**|Tianchen Deng et.al.|[2312.09866v1](http://arxiv.org/abs/2312.09866v1)|null|
 |**2023-12-12**|**WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**|Soyong Shin et.al.|[2312.07531v1](http://arxiv.org/abs/2312.07531v1)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991v1](http://arxiv.org/abs/2312.06991v1)|null|
@@ -610,6 +611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529v1](http://arxiv.org/abs/2312.10529v1)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
 |**2023-12-14**|**HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**|Xueying Wang et.al.|[2312.08863v1](http://arxiv.org/abs/2312.08863v1)|null|
 |**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760v1](http://arxiv.org/abs/2312.08760v1)|null|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865v1](http://arxiv.org/abs/2312.06865v1)|null|
@@ -748,6 +750,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649v1](http://arxiv.org/abs/2312.10649v1)|null|
+|**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616v1](http://arxiv.org/abs/2312.10616v1)|**[link](https://github.com/sijieaaa/distilvpr)**|
 |**2023-12-14**|**Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition**|Oliver Grainge et.al.|[2312.09028v1](http://arxiv.org/abs/2312.09028v1)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991v1](http://arxiv.org/abs/2312.06991v1)|null|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029v1](http://arxiv.org/abs/2312.02029v1)|null|
