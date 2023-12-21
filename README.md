@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Calibration of metallicity of LAMOST M dwarf stars Using FGK+M wide binaries**|Dan Qiu et.al.|[2312.12827v1](http://arxiv.org/abs/2312.12827v1)|null|
 |**2023-12-19**|**Enhanced Unscented Kalman Filter-Based SLAM in Dynamic Environments: Euclidean Approach**|Masoud Dorvash et.al.|[2312.12204v1](http://arxiv.org/abs/2312.12204v1)|null|
 |**2023-12-06**|**Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting**|Vladimir Yugay et.al.|[2312.10070v1](http://arxiv.org/abs/2312.10070v1)|null|
 |**2023-12-15**|**PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment**|Tianchen Deng et.al.|[2312.09866v1](http://arxiv.org/abs/2312.09866v1)|null|
@@ -751,6 +752,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition**|Bruno Arcanjo et.al.|[2312.12995v1](http://arxiv.org/abs/2312.12995v1)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649v1](http://arxiv.org/abs/2312.10649v1)|null|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616v1](http://arxiv.org/abs/2312.10616v1)|**[link](https://github.com/sijieaaa/distilvpr)**|
 |**2023-12-14**|**Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition**|Oliver Grainge et.al.|[2312.09028v1](http://arxiv.org/abs/2312.09028v1)|null|
@@ -1010,6 +1012,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480v1](http://arxiv.org/abs/2312.12480v1)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793v1](http://arxiv.org/abs/2312.11793v1)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871v1](http://arxiv.org/abs/2312.08871v1)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865v1](http://arxiv.org/abs/2312.06865v1)|null|
