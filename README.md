@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri et.al.|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-25**|**BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery**|Jingwei Song et.al.|[2312.15679v1](http://arxiv.org/abs/2312.15679v1)|**[link](https://github.com/jingweisong/bdis-slam)**|
 |**2023-12-24**|**A Belief Propagation Approach for Direct Multipath-Based SLAM**|Mingchao Liang et.al.|[2312.15564v1](http://arxiv.org/abs/2312.15564v1)|null|
 |**2023-12-20**|**Scaling Down to Scale Up: A Cost-Benefit Analysis of Replacing OpenAI's GPT-4 with Self-Hosted Open Source SLMs in Production**|Chandra Irugalbandara et.al.|[2312.14972v1](http://arxiv.org/abs/2312.14972v1)|null|
