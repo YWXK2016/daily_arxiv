@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
 |**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang et.al.|[2401.13877v1](http://arxiv.org/abs/2401.13877v1)|null|
 |**2024-01-24**|**Multi-Object Navigation in real environments using hybrid policies**|Assem Sadek et.al.|[2401.13800v1](http://arxiv.org/abs/2401.13800v1)|null|
 |**2024-01-19**|**360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**|Yichen Chen et.al.|[2401.10560v1](http://arxiv.org/abs/2401.10560v1)|null|
