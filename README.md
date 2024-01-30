@@ -793,6 +793,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304v1](http://arxiv.org/abs/2401.16304v1)|null|
 |**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082v1](http://arxiv.org/abs/2401.13082v1)|null|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|**[link](https://github.com/leomingyangli/semanticslam)**|
 |**2024-01-16**|**Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments**|Bruno Arcanjo et.al.|[2401.08263v1](http://arxiv.org/abs/2401.08263v1)|null|
@@ -1061,6 +1062,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173v1](http://arxiv.org/abs/2401.16173v1)|null|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336v1](http://arxiv.org/abs/2401.09336v1)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742v1](http://arxiv.org/abs/2401.03742v1)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v2](http://arxiv.org/abs/2401.00029v2)|null|
