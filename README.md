@@ -4,8 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|null|
-|**2024-01-31**|**PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**|Xiangcheng Hu et.al.|[2401.17826v1](http://arxiv.org/abs/2401.17826v1)|null|
+|**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
+|**2024-02-01**|**The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2402.00438v1](http://arxiv.org/abs/2402.00438v1)|null|
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|**[link](https://github.com/remaro-network/subpipe-dataset)**|
+|**2024-01-31**|**PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**|Xiangcheng Hu et.al.|[2401.17826v1](http://arxiv.org/abs/2401.17826v1)|**[link](https://github.com/jokerjohn/paloc)**|
 |**2024-01-31**|**Haris: an Advanced Autonomous Mobile Robot for Smart Parking Assistance**|Layth Hamad et.al.|[2401.17741v1](http://arxiv.org/abs/2401.17741v1)|null|
 |**2024-01-30**|**A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation**|Varun Agrawal et.al.|[2401.17463v1](http://arxiv.org/abs/2401.17463v1)|null|
 |**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061v1](http://arxiv.org/abs/2401.17061v1)|**[link](https://github.com/sbrunoberenguel/omniscv)**|
@@ -800,6 +802,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
+|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304v1](http://arxiv.org/abs/2401.16304v1)|null|
 |**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082v1](http://arxiv.org/abs/2401.13082v1)|null|
