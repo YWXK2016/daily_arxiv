@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
+|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v1](http://arxiv.org/abs/2402.03762v1)|null|
+|**2024-02-03**|**Weighted Conformal LiDAR-Mapping for Structured SLAM**|Natalia Prieto-Fernández et.al.|[2402.03376v1](http://arxiv.org/abs/2402.03376v1)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
 |**2024-02-03**|**Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**|David Gualda et.al.|[2402.02241v1](http://arxiv.org/abs/2402.02241v1)|null|
 |**2024-02-03**|**NeuV-SLAM: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM**|Wenzhi Guo et.al.|[2402.02020v1](http://arxiv.org/abs/2402.02020v1)|null|
@@ -805,6 +808,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v1](http://arxiv.org/abs/2402.03762v1)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
