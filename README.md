@@ -1,11 +1,11 @@
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
-|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
+|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|**[link](https://github.com/unibwtas/yolopoint)**|
 |**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v1](http://arxiv.org/abs/2402.03762v1)|null|
 |**2024-02-03**|**Weighted Conformal LiDAR-Mapping for Structured SLAM**|Natalia Prieto-Fernández et.al.|[2402.03376v1](http://arxiv.org/abs/2402.03376v1)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
