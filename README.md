@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
 |**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
 |**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
 |**2024-03-04**|**Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments**|Junseo Kim et.al.|[2403.02235v1](http://arxiv.org/abs/2403.02235v1)|null|
@@ -693,6 +694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926v1](http://arxiv.org/abs/2403.04926v1)|**[link](https://github.com/snldmt/bags)**|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650v1](http://arxiv.org/abs/2402.14650v1)|null|
 |**2024-02-25**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431v2](http://arxiv.org/abs/2402.11431v2)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287v1](http://arxiv.org/abs/2402.11287v1)|null|
@@ -845,6 +847,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002v1](http://arxiv.org/abs/2403.05002v1)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703v1](http://arxiv.org/abs/2403.04703v1)|null|
 |**2024-02-29**|**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**|Feng Lu et.al.|[2402.19231v1](http://arxiv.org/abs/2402.19231v1)|**[link](https://github.com/lu-feng/cricavpr)**|
 |**2024-02-28**|**Representing 3D sparse map points and lines for camera relocalization**|Bach-Thuan Bui et.al.|[2402.18011v1](http://arxiv.org/abs/2402.18011v1)|**[link](https://github.com/ais-lab/pl2map)**|
