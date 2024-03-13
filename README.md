@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788v1](http://arxiv.org/abs/2403.07788v1)|null|
+|**2024-03-12**|**SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2403.07494v1](http://arxiv.org/abs/2403.07494v1)|null|
+|**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225v1](http://arxiv.org/abs/2403.07225v1)|null|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-12**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v2](http://arxiv.org/abs/2403.05791v2)|null|
