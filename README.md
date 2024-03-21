@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
+|**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|null|
+|**2024-03-20**|**Tuning body shape and stiffness to mitigate water-entry forces**|Bart Boom et.al.|[2403.13262v1](http://arxiv.org/abs/2403.13262v1)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v1](http://arxiv.org/abs/2403.12837v1)|null|
 |**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550v1](http://arxiv.org/abs/2403.12550v1)|null|
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535v1](http://arxiv.org/abs/2403.12535v1)|null|
@@ -1170,7 +1173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662v1](http://arxiv.org/abs/2403.11662v1)|null|
+|**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662v1](http://arxiv.org/abs/2403.11662v1)|**[link](https://github.com/yuyangpoi/fe-detr)**|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241v1](http://arxiv.org/abs/2402.14241v1)|null|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488v2](http://arxiv.org/abs/2402.13488v2)|null|
