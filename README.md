@@ -1,4 +1,4 @@
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 
 ## SLAM
 
@@ -875,7 +875,7 @@
 |---|---|---|---|---|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367v1](http://arxiv.org/abs/2403.11367v1)|null|
-|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297v1](http://arxiv.org/abs/2403.10297v1)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
+|**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297v2](http://arxiv.org/abs/2403.10297v2)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283v1](http://arxiv.org/abs/2403.10283v1)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577v1](http://arxiv.org/abs/2403.09577v1)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025v1](http://arxiv.org/abs/2403.09025v1)|null|
