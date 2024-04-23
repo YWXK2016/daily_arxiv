@@ -753,7 +753,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547v1](http://arxiv.org/abs/2404.12547v1)|null|
+|**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547v2](http://arxiv.org/abs/2404.12547v2)|null|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590v1](http://arxiv.org/abs/2404.11590v1)|null|
 |**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358v2](http://arxiv.org/abs/2404.11358v2)|null|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748v1](http://arxiv.org/abs/2404.09748v1)|null|
