@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706v1](http://arxiv.org/abs/2404.19706v1)|null|
 |**2024-04-29**|**Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**|Xin Chen et.al.|[2404.18560v1](http://arxiv.org/abs/2404.18560v1)|null|
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
 |**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|null|
@@ -941,6 +942,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174v1](http://arxiv.org/abs/2404.19174v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
 |**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324v1](http://arxiv.org/abs/2404.13324v1)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
@@ -1255,6 +1257,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311v1](http://arxiv.org/abs/2404.19311v1)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560v2](http://arxiv.org/abs/2404.14560v2)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625v1](http://arxiv.org/abs/2404.12625v1)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985v1](http://arxiv.org/abs/2404.10985v1)|null|
@@ -1449,6 +1452,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311v1](http://arxiv.org/abs/2404.19311v1)|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174v1](http://arxiv.org/abs/2404.19174v1)|null|
 |**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715v1](http://arxiv.org/abs/2404.14715v1)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302v1](http://arxiv.org/abs/2404.11302v1)|**[link](https://github.com/pro1944191/semanticalignnet)**|
