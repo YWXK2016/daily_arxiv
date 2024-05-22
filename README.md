@@ -1,4 +1,4 @@
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 
 ## SLAM
 
@@ -8,12 +8,12 @@
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|**[link](https://github.com/antonio521/motiongs)**|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793v1](http://arxiv.org/abs/2405.10793v1)|null|
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
-|**2024-05-14**|**IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**|Emilio Olivastri et.al.|[2405.08503v1](http://arxiv.org/abs/2405.08503v1)|null|
+|**2024-05-14**|**IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**|Emilio Olivastri et.al.|[2405.08503v1](http://arxiv.org/abs/2405.08503v1)|**[link](https://github.com/EmilioOlivastri/IPC)**|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966v1](http://arxiv.org/abs/2405.07966v1)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
 |**2024-05-13**|**SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling**|Yijun Yuan et.al.|[2405.07847v1](http://arxiv.org/abs/2405.07847v1)|null|
 |**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392v1](http://arxiv.org/abs/2405.07392v1)|**[link](https://github.com/yuhaozhang7/NGD-SLAM)**|
 |**2024-05-12**|**Hologram: Realtime Holographic Overlays via LiDAR Augmented Reconstruction**|Ekansh Agrawal et.al.|[2405.07178v1](http://arxiv.org/abs/2405.07178v1)|null|
-|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|null|
+|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|**[link](https://github.com/nubot-nudt/td-nerf)**|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
 |**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807v1](http://arxiv.org/abs/2405.05807v1)|null|
 |**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702v1](http://arxiv.org/abs/2405.05702v1)|null|
@@ -799,7 +799,7 @@
 |**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547v2](http://arxiv.org/abs/2404.12547v2)|null|
 |**2024-05-07**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590v2](http://arxiv.org/abs/2404.11590v2)|**[link](https://github.com/alexfengg/ste)**|
 |**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358v2](http://arxiv.org/abs/2404.11358v2)|null|
-|**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748v1](http://arxiv.org/abs/2404.09748v1)|null|
+|**2024-05-21**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748v2](http://arxiv.org/abs/2404.09748v2)|null|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875v1](http://arxiv.org/abs/2404.04875v1)|null|
