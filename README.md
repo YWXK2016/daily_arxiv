@@ -977,6 +977,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**|Issar Tzachor et.al.|[2405.18065v1](http://arxiv.org/abs/2405.18065v1)|null|
 |**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599v1](http://arxiv.org/abs/2405.16599v1)|null|
 |**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936v1](http://arxiv.org/abs/2405.11936v1)|**[link](https://github.com/intellisensing/uav-visloc)**|
 |**2024-05-19**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526v1](http://arxiv.org/abs/2405.11526v1)|null|
