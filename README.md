@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|**[link](https://github.com/vis4rob-lab/hyperion)**|
 |**2024-07-09**|**A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**|Yasra Chandio et.al.|[2407.06889v1](http://arxiv.org/abs/2407.06889v1)|null|
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077v1](http://arxiv.org/abs/2407.06077v1)|null|
@@ -832,6 +833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Hybrid Structure-from-Motion and Camera Relocalization for Enhanced Egocentric Localization**|Jinjie Mai et.al.|[2407.08023v1](http://arxiv.org/abs/2407.08023v1)|**[link](https://github.com/wayne-mai/egoloc_v1)**|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513v1](http://arxiv.org/abs/2407.06513v1)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666v1](http://arxiv.org/abs/2407.05666v1)|null|
 |**2024-07-05**|**Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**|Shaohan Li et.al.|[2407.04260v1](http://arxiv.org/abs/2407.04260v1)|null|
@@ -1026,6 +1028,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162v1](http://arxiv.org/abs/2407.08162v1)|null|
+|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730v1](http://arxiv.org/abs/2407.06730v1)|null|
 |**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422v1](http://arxiv.org/abs/2407.02422v1)|**[link](https://github.com/serizba/cliquemining)**|
 |**2024-07-01**|**Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios**|Connor Malone et.al.|[2407.00863v1](http://arxiv.org/abs/2407.00863v1)|null|
