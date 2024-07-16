@@ -834,6 +834,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406v1](http://arxiv.org/abs/2407.10406v1)|null|
+|**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102v1](http://arxiv.org/abs/2407.10102v1)|null|
 |**2024-07-10**|**Hybrid Structure-from-Motion and Camera Relocalization for Enhanced Egocentric Localization**|Jinjie Mai et.al.|[2407.08023v1](http://arxiv.org/abs/2407.08023v1)|**[link](https://github.com/wayne-mai/egoloc_v1)**|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513v1](http://arxiv.org/abs/2407.06513v1)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666v1](http://arxiv.org/abs/2407.05666v1)|null|
@@ -1029,6 +1032,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803v1](http://arxiv.org/abs/2407.10803v1)|null|
+|**2024-07-15**|**An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**|J. J. Cabrera et.al.|[2407.10596v1](http://arxiv.org/abs/2407.10596v1)|**[link](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**|
 |**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162v1](http://arxiv.org/abs/2407.08162v1)|**[link](https://github.com/QVPR/aarapsiproject)**|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730v1](http://arxiv.org/abs/2407.06730v1)|null|
