@@ -1,4 +1,4 @@
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 
 ## SLAM
 
@@ -1584,7 +1584,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-10**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789v1](http://arxiv.org/abs/2407.07789v1)|null|
+|**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789v2](http://arxiv.org/abs/2407.07789v2)|null|
 |**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410v1](http://arxiv.org/abs/2407.07410v1)|null|
 |**2024-07-12**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939v2](http://arxiv.org/abs/2407.03939v2)|null|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172v1](http://arxiv.org/abs/2407.03172v1)|null|
