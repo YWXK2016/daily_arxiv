@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
 |**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084v1](http://arxiv.org/abs/2408.02084v1)|null|
 |**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|null|
@@ -1646,6 +1647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766v1](http://arxiv.org/abs/2408.02766v1)|null|
 |**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079v1](http://arxiv.org/abs/2408.02079v1)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812v1](http://arxiv.org/abs/2407.19812v1)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695v1](http://arxiv.org/abs/2407.18695v1)|null|
