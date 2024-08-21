@@ -877,6 +877,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
 |**2024-08-15**|**CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**|Wei Zhu et.al.|[2408.08134v1](http://arxiv.org/abs/2408.08134v1)|**[link](https://github.com/TaoWangzj/CorrAdaptor)**|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648v1](http://arxiv.org/abs/2408.06648v1)|null|
@@ -1667,6 +1668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383v1](http://arxiv.org/abs/2408.10383v1)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687v1](http://arxiv.org/abs/2408.07687v1)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598v1](http://arxiv.org/abs/2408.03598v1)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766v1](http://arxiv.org/abs/2408.02766v1)|null|
