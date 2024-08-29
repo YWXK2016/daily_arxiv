@@ -1,4 +1,4 @@
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 
 ## SLAM
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
 |**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518v1](http://arxiv.org/abs/2408.14518v1)|null|
-|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|**[link](https://github.com/hku-mars/fast-livo2)**|
+|**2024-08-28**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
 |**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
