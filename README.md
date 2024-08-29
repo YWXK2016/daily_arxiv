@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR**|Miguel Arturo Vega Torres et.al.|[2408.15870v1](http://arxiv.org/abs/2408.15870v1)|**[link](https://github.com/MigVega/SLAM2REF)**|
+|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v1](http://arxiv.org/abs/2408.15761v1)|null|
+|**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605v1](http://arxiv.org/abs/2408.15605v1)|null|
+|**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583v1](http://arxiv.org/abs/2408.15583v1)|null|
 |**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
 |**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518v1](http://arxiv.org/abs/2408.14518v1)|null|
 |**2024-08-28**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|**[link](https://github.com/hku-mars/fast-livo2)**|
@@ -1096,7 +1100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037v1](http://arxiv.org/abs/2408.12037v1)|null|
+|**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037v1](http://arxiv.org/abs/2408.12037v1)|**[link](https://github.com/sontung/descriptor-disambiguation)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680v2](http://arxiv.org/abs/2408.09680v2)|null|
