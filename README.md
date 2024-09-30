@@ -1,9 +1,10 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Royal Reveals: LiDAR Mapping of Kronborg Castle, Echoes of Hamlet's Halls**|Leon Davies et.al.|[2409.18752v1](http://arxiv.org/abs/2409.18752v1)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981v1](http://arxiv.org/abs/2409.17981v1)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729v1](http://arxiv.org/abs/2409.17729v1)|null|
 |**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680v1](http://arxiv.org/abs/2409.17680v1)|null|
@@ -933,6 +934,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981v1](http://arxiv.org/abs/2409.17981v1)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470v1](http://arxiv.org/abs/2409.16470v1)|null|
 |**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465v1](http://arxiv.org/abs/2409.16465v1)|null|
@@ -1765,6 +1767,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925v1](http://arxiv.org/abs/2409.16925v1)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471v1](http://arxiv.org/abs/2409.06471v1)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568v1](http://arxiv.org/abs/2409.03568v1)|null|
