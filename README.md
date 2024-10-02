@@ -1,4 +1,4 @@
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 
 ## SLAM
 
@@ -1563,7 +1563,7 @@
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668v1](http://arxiv.org/abs/2409.13668v1)|null|
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695v3](http://arxiv.org/abs/2409.08695v3)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|
-|**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202v1](http://arxiv.org/abs/2408.08202v1)|null|
+|**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202v2](http://arxiv.org/abs/2408.08202v2)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117v1](http://arxiv.org/abs/2408.00117v1)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907v1](http://arxiv.org/abs/2407.18907v1)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232v1](http://arxiv.org/abs/2407.18232v1)|**[link](https://github.com/happinesslz/LION)**|
