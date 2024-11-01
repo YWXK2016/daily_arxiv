@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-30**|**ISAC Prototype System for Multi-Domain Cooperative Communication Networks**|Jie Yang et.al.|[2410.22956v1](http://arxiv.org/abs/2410.22956v1)|null|
 |**2024-10-30**|**SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark**|HyunJun Jung et.al.|[2410.22715v1](http://arxiv.org/abs/2410.22715v1)|null|
@@ -1226,7 +1227,7 @@
 |**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269v1](http://arxiv.org/abs/2410.12269v1)|**[link](https://github.com/VictorZoo/LoD-Loc)**|
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240v1](http://arxiv.org/abs/2410.12240v1)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
-|**2024-10-31**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187v2](http://arxiv.org/abs/2410.11187v2)|null|
+|**2024-10-31**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187v2](http://arxiv.org/abs/2410.11187v2)|**[link](https://github.com/ai4ce/MSG)**|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533v1](http://arxiv.org/abs/2410.09533v1)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
 |**2024-10-05**|**Semantic Environment Atlas for Object-Goal Navigation**|Nuri Kim et.al.|[2410.09081v1](http://arxiv.org/abs/2410.09081v1)|null|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|**[link](https://github.com/hku-mars/Voxel-SLAM)**|
@@ -1627,6 +1628,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906v1](http://arxiv.org/abs/2410.23906v1)|null|
 |**2024-10-04**|**Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**|Aman Anand et.al.|[2410.14700v1](http://arxiv.org/abs/2410.14700v1)|null|
 |**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419v1](http://arxiv.org/abs/2410.14419v1)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742v1](http://arxiv.org/abs/2410.12742v1)|null|
@@ -1858,6 +1860,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329v1](http://arxiv.org/abs/2410.23329v1)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710v1](http://arxiv.org/abs/2410.22710v1)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097v1](http://arxiv.org/abs/2410.20097v1)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848v1](http://arxiv.org/abs/2410.11848v1)|null|
