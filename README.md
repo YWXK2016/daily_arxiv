@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
