@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|null|
 |**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286v1](http://arxiv.org/abs/2503.04286v1)|null|
 |**2025-03-06**|**DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**|Joshua Bird et.al.|[2503.04126v1](http://arxiv.org/abs/2503.04126v1)|null|
 |**2025-03-05**|**Equivariant Filter Design for Range-only SLAM**|Yixiao Ge et.al.|[2503.03973v1](http://arxiv.org/abs/2503.03973v1)|null|
@@ -1852,6 +1853,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472v1](http://arxiv.org/abs/2503.05472v1)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481v1](http://arxiv.org/abs/2503.02481v1)|null|
 |**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666v1](http://arxiv.org/abs/2503.00666v1)|null|
