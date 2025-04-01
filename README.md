@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 
 ## SLAM
 
@@ -1440,7 +1440,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|null|
+|**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543v1](http://arxiv.org/abs/2503.19543v1)|null|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938v1](http://arxiv.org/abs/2503.17938v1)|null|
 |**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005v1](http://arxiv.org/abs/2503.17005v1)|null|
