@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|null|
+|**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497v1](http://arxiv.org/abs/2504.04497v1)|null|
+|**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan et.al.|[2504.04457v1](http://arxiv.org/abs/2504.04457v1)|null|
+|**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
+|**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886v1](http://arxiv.org/abs/2504.03886v1)|null|
 |**2025-04-03**|**SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**|Prashant Kumar et.al.|[2504.03089v1](http://arxiv.org/abs/2504.03089v1)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477v1](http://arxiv.org/abs/2504.02477v1)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
@@ -1156,6 +1161,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294v1](http://arxiv.org/abs/2504.04294v1)|null|
 |**2025-04-04**|**An Algebraic Geometry Approach to Viewing Graph Solvability**|Federica Arrigoni et.al.|[2504.03637v1](http://arxiv.org/abs/2504.03637v1)|null|
 |**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732v1](http://arxiv.org/abs/2504.01732v1)|null|
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219v1](http://arxiv.org/abs/2504.00219v1)|null|
@@ -2197,6 +2203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v1](http://arxiv.org/abs/2504.04834v1)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812v1](http://arxiv.org/abs/2504.00812v1)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925v1](http://arxiv.org/abs/2503.23925v1)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881v1](http://arxiv.org/abs/2503.22881v1)|**[link](https://github.com/pairx-explains/pairx)**|
@@ -2204,7 +2211,7 @@
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275v1](http://arxiv.org/abs/2503.16275v1)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185v1](http://arxiv.org/abs/2503.16185v1)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285v1](http://arxiv.org/abs/2503.15285v1)|null|
-|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433v1](http://arxiv.org/abs/2503.13433v1)|null|
+|**2025-04-07**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433v2](http://arxiv.org/abs/2503.13433v2)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706v1](http://arxiv.org/abs/2503.12706v1)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148v1](http://arxiv.org/abs/2503.11148v1)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017v1](http://arxiv.org/abs/2503.10017v1)|null|
