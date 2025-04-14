@@ -1,4 +1,4 @@
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 
 ## SLAM
 
@@ -2208,7 +2208,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604v1](http://arxiv.org/abs/2504.06604v1)|null|
+|**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604v2](http://arxiv.org/abs/2504.06604v2)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116v1](http://arxiv.org/abs/2504.06116v1)|null|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812v1](http://arxiv.org/abs/2504.00812v1)|null|
