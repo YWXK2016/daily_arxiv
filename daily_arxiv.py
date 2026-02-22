@@ -92,6 +92,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         except Exception as e:
             print(f"exception: {e} with id: {paper_key}")
+            content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
+            content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
