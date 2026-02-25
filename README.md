@@ -1,9 +1,12 @@
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925v1](http://arxiv.org/abs/2602.20925v1)|null|
+|**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807v1](http://arxiv.org/abs/2602.20807v1)|null|
+|**2026-02-24**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v1](http://arxiv.org/abs/2602.20630v1)|null|
 |**2026-02-21**|**IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping**|Tingyang Xiao et.al.|[2602.18709v1](http://arxiv.org/abs/2602.18709v1)|null|
 |**2026-02-20**|**Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark**|Hyoseok Ju et.al.|[2602.18174v1](http://arxiv.org/abs/2602.18174v1)|null|
 |**2026-02-20**|**GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation**|Jonas Frey et.al.|[2602.18164v1](http://arxiv.org/abs/2602.18164v1)|null|
@@ -1181,6 +1184,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v1](http://arxiv.org/abs/2602.20630v1)|null|
+|**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584v1](http://arxiv.org/abs/2602.20584v1)|null|
 |**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906v1](http://arxiv.org/abs/2602.18906v1)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473v1](http://arxiv.org/abs/2602.17473v1)|null|
 |**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181v1](http://arxiv.org/abs/2602.15181v1)|null|
@@ -1493,6 +1498,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925v1](http://arxiv.org/abs/2602.20925v1)|null|
+|**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584v1](http://arxiv.org/abs/2602.20584v1)|null|
 |**2026-02-23**|**VGGT-MPR: VGGT-Enhanced Multimodal Place Recognition in Autonomous Driving Environments**|Jingyi Xu et.al.|[2602.19735v1](http://arxiv.org/abs/2602.19735v1)|null|
 |**2026-02-21**|**IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping**|Tingyang Xiao et.al.|[2602.18709v1](http://arxiv.org/abs/2602.18709v1)|null|
 |**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry Hölzemann et.al.|[2602.16349v1](http://arxiv.org/abs/2602.16349v1)|null|
@@ -1986,6 +1993,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v1](http://arxiv.org/abs/2602.20630v1)|null|
 |**2026-02-20**|**Morphological Addressing of Identity Basins in Text-to-Image Diffusion Models**|Andrew Fraser et.al.|[2602.18533v1](http://arxiv.org/abs/2602.18533v1)|null|
 |**2026-02-17**|**SAM 3D Body: Robust Full-Body Human Mesh Recovery**|Xitong Yang et.al.|[2602.15989v1](http://arxiv.org/abs/2602.15989v1)|null|
 |**2026-02-15**|**Differential pose optimization in descriptor space -- Combining Geometric and Photometric Methods for Motion Estimation**|Andreas L. Teigen et.al.|[2602.14297v1](http://arxiv.org/abs/2602.14297v1)|null|
