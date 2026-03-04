@@ -1,9 +1,13 @@
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985v1](http://arxiv.org/abs/2603.02985v1)|null|
+|**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832v1](http://arxiv.org/abs/2603.02832v1)|null|
+|**2026-03-03**|**PathSpace: Rapid continuous map approximation for efficient SLAM using B-Splines in constrained environments**|Aduen Benjumea et.al.|[2603.02538v1](http://arxiv.org/abs/2603.02538v1)|null|
+|**2026-03-02**|**"Game, Set, Match": Double Delight Watching a Grand Slam Tennis Match**|Edsel A. Pena et.al.|[2603.02360v1](http://arxiv.org/abs/2603.02360v1)|null|
 |**2026-03-01**|**riMESA: Consensus ADMM for Real-World Collaborative SLAM**|Daniel McGann et.al.|[2603.01178v1](http://arxiv.org/abs/2603.01178v1)|null|
 |**2026-03-01**|**AI-enhanced Direct SLAM: A Principled Approach to Unsupervised Learning in Bayesian Inference**|Alexander Venus et.al.|[2603.01071v1](http://arxiv.org/abs/2603.01071v1)|null|
 |**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115v1](http://arxiv.org/abs/2602.23115v1)|null|
@@ -1195,7 +1199,7 @@
 |**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115v1](http://arxiv.org/abs/2602.23115v1)|null|
 |**2026-02-26**|**QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition**|Daniel Miao et.al.|[2602.22639v1](http://arxiv.org/abs/2602.22639v1)|null|
 |**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[2602.21963v1](http://arxiv.org/abs/2602.21963v1)|null|
-|**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v2](http://arxiv.org/abs/2602.20630v2)|null|
+|**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v3](http://arxiv.org/abs/2602.20630v3)|null|
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584v1](http://arxiv.org/abs/2602.20584v1)|null|
 |**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906v1](http://arxiv.org/abs/2602.18906v1)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473v1](http://arxiv.org/abs/2602.17473v1)|null|
@@ -1509,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**LOO-PIT predictive model checking**|Herman Tesso et.al.|[2603.02928v1](http://arxiv.org/abs/2603.02928v1)|null|
+|**2026-03-03**|**Cross-view geo-localization, Image retrieval, Multiscale geometric modeling, Frequency domain enhancement**|Hongying Zhang et.al.|[2603.02726v1](http://arxiv.org/abs/2603.02726v1)|null|
 |**2026-02-27**|**Altitude-Aware Visual Place Recognition in Top-Down View**|Xingyu Shao et.al.|[2602.23872v1](http://arxiv.org/abs/2602.23872v1)|null|
 |**2026-02-26**|**VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361v1](http://arxiv.org/abs/2602.23361v1)|null|
 |**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473v1](http://arxiv.org/abs/2602.21473v1)|null|
@@ -2008,7 +2014,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904v1](http://arxiv.org/abs/2602.21904v1)|null|
-|**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v2](http://arxiv.org/abs/2602.20630v2)|null|
+|**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v3](http://arxiv.org/abs/2602.20630v3)|null|
 |**2026-02-20**|**Morphological Addressing of Identity Basins in Text-to-Image Diffusion Models**|Andrew Fraser et.al.|[2602.18533v1](http://arxiv.org/abs/2602.18533v1)|null|
 |**2026-02-17**|**SAM 3D Body: Robust Full-Body Human Mesh Recovery**|Xitong Yang et.al.|[2602.15989v1](http://arxiv.org/abs/2602.15989v1)|null|
 |**2026-02-15**|**Differential pose optimization in descriptor space -- Combining Geometric and Photometric Methods for Motion Estimation**|Andreas L. Teigen et.al.|[2602.14297v1](http://arxiv.org/abs/2602.14297v1)|null|
