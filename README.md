@@ -1,9 +1,10 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Probabilistic Occupancy Grid for Radio-Based SLAM**|Xuhong Li et.al.|[2603.03559v1](http://arxiv.org/abs/2603.03559v1)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985v1](http://arxiv.org/abs/2603.02985v1)|null|
 |**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832v1](http://arxiv.org/abs/2603.02832v1)|null|
 |**2026-03-03**|**PathSpace: Rapid continuous map approximation for efficient SLAM using B-Splines in constrained environments**|Aduen Benjumea et.al.|[2603.02538v1](http://arxiv.org/abs/2603.02538v1)|null|
@@ -1513,11 +1514,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Long-Term Visual Localization in Dynamic Benthic Environments: A Dataset, Footprint-Based Ground Truth, and Visual Place Recognition Benchmark**|Martin Kvisvik Larsen et.al.|[2603.04056v1](http://arxiv.org/abs/2603.04056v1)|null|
+|**2026-03-04**|**HE-VPR: Height Estimation Enabled Aerial Visual Place Recognition Against Scale Variance**|Mengfan He et.al.|[2603.04050v1](http://arxiv.org/abs/2603.04050v1)|null|
 |**2026-03-03**|**LOO-PIT predictive model checking**|Herman Tesso et.al.|[2603.02928v1](http://arxiv.org/abs/2603.02928v1)|null|
 |**2026-03-03**|**Cross-view geo-localization, Image retrieval, Multiscale geometric modeling, Frequency domain enhancement**|Hongying Zhang et.al.|[2603.02726v1](http://arxiv.org/abs/2603.02726v1)|null|
 |**2026-02-27**|**Altitude-Aware Visual Place Recognition in Top-Down View**|Xingyu Shao et.al.|[2602.23872v1](http://arxiv.org/abs/2602.23872v1)|null|
 |**2026-02-26**|**VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361v1](http://arxiv.org/abs/2602.23361v1)|null|
-|**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473v1](http://arxiv.org/abs/2602.21473v1)|null|
+|**2026-03-04**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473v2](http://arxiv.org/abs/2602.21473v2)|null|
 |**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925v1](http://arxiv.org/abs/2602.20925v1)|null|
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584v1](http://arxiv.org/abs/2602.20584v1)|null|
 |**2026-02-23**|**VGGT-MPR: VGGT-Enhanced Multimodal Place Recognition in Autonomous Driving Environments**|Jingyi Xu et.al.|[2602.19735v1](http://arxiv.org/abs/2602.19735v1)|null|
@@ -2013,6 +2016,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|
 |**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904v1](http://arxiv.org/abs/2602.21904v1)|null|
 |**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v3](http://arxiv.org/abs/2602.20630v3)|null|
 |**2026-02-20**|**Morphological Addressing of Identity Basins in Text-to-Image Diffusion Models**|Andrew Fraser et.al.|[2602.18533v1](http://arxiv.org/abs/2602.18533v1)|null|
