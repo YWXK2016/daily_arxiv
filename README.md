@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**HBRB-BoW: A Retrained Bag-of-Words Vocabulary for ORB-SLAM via Hierarchical BRB-KMeans**|Minjae Lee et.al.|[2603.04144v1](http://arxiv.org/abs/2603.04144v1)|null|
 |**2026-03-03**|**Probabilistic Occupancy Grid for Radio-Based SLAM**|Xuhong Li et.al.|[2603.03559v1](http://arxiv.org/abs/2603.03559v1)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985v1](http://arxiv.org/abs/2603.02985v1)|null|
 |**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832v1](http://arxiv.org/abs/2603.02832v1)|null|
@@ -1514,6 +1515,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**SSR: A Generic Framework for Text-Aided Map Compression for Localization**|Mohammad Omama et.al.|[2603.04272v1](http://arxiv.org/abs/2603.04272v1)|null|
 |**2026-03-04**|**Long-Term Visual Localization in Dynamic Benthic Environments: A Dataset, Footprint-Based Ground Truth, and Visual Place Recognition Benchmark**|Martin Kvisvik Larsen et.al.|[2603.04056v1](http://arxiv.org/abs/2603.04056v1)|null|
 |**2026-03-04**|**HE-VPR: Height Estimation Enabled Aerial Visual Place Recognition Against Scale Variance**|Mengfan He et.al.|[2603.04050v1](http://arxiv.org/abs/2603.04050v1)|null|
 |**2026-03-03**|**LOO-PIT predictive model checking**|Herman Tesso et.al.|[2603.02928v1](http://arxiv.org/abs/2603.02928v1)|null|
