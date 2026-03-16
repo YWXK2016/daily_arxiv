@@ -1,9 +1,10 @@
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721v1](http://arxiv.org/abs/2603.12721v1)|null|
 |**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064v1](http://arxiv.org/abs/2603.12064v1)|null|
 |**2026-03-11**|**D-SLAMSpoof: An Environment-Agnostic LiDAR Spoofing Attack using Dynamic Point Cloud Injection**|Rokuto Nagata et.al.|[2603.11365v1](http://arxiv.org/abs/2603.11365v1)|null|
 |**2026-03-11**|**MirrorDrift: Actuated Mirror-Based Attacks on LiDAR SLAM**|Rokuto Nagata et.al.|[2603.11364v1](http://arxiv.org/abs/2603.11364v1)|null|
@@ -1539,6 +1540,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690v1](http://arxiv.org/abs/2603.12690v1)|null|
 |**2026-03-12**|**Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network**|Min Hao et.al.|[2603.11398v1](http://arxiv.org/abs/2603.11398v1)|null|
 |**2026-03-09**|**$L^3$:Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937v1](http://arxiv.org/abs/2603.07937v1)|null|
 |**2026-03-08**|**QdaVPR: A novel query-based domain-agnostic model for visual place recognition**|Shanshan Wan et.al.|[2603.07414v1](http://arxiv.org/abs/2603.07414v1)|null|
@@ -2335,6 +2337,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690v1](http://arxiv.org/abs/2603.12690v1)|null|
 |**2026-03-09**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Bowen Liu et.al.|[2603.08063v1](http://arxiv.org/abs/2603.08063v1)|null|
 |**2026-02-27**|**No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency**|Cho-Ying Wu et.al.|[2602.23559v1](http://arxiv.org/abs/2602.23559v1)|null|
 |**2026-02-13**|**Matching of SAR and optical images based on transformation to shared modality**|Alexey Borisov et.al.|[2602.12515v1](http://arxiv.org/abs/2602.12515v1)|null|
