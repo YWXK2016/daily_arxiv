@@ -1,11 +1,14 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation**|Prithvi Jai Ramesh et.al.|[2603.14397v1](http://arxiv.org/abs/2603.14397v1)|null|
+|**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917v1](http://arxiv.org/abs/2603.13917v1)|null|
+|**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556v1](http://arxiv.org/abs/2603.13556v1)|null|
 |**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721v1](http://arxiv.org/abs/2603.12721v1)|null|
-|**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064v1](http://arxiv.org/abs/2603.12064v1)|null|
+|**2026-03-14**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064v2](http://arxiv.org/abs/2603.12064v2)|null|
 |**2026-03-11**|**D-SLAMSpoof: An Environment-Agnostic LiDAR Spoofing Attack using Dynamic Point Cloud Injection**|Rokuto Nagata et.al.|[2603.11365v1](http://arxiv.org/abs/2603.11365v1)|null|
 |**2026-03-11**|**MirrorDrift: Actuated Mirror-Based Attacks on LiDAR SLAM**|Rokuto Nagata et.al.|[2603.11364v1](http://arxiv.org/abs/2603.11364v1)|null|
 |**2026-03-11**|**Edge-Assisted Multi-Robot Visual-Inertial SLAM with Efficient Communication**|Xin Liu et.al.|[2603.11085v1](http://arxiv.org/abs/2603.11085v1)|null|
@@ -1215,6 +1218,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917v1](http://arxiv.org/abs/2603.13917v1)|null|
 |**2026-03-12**|**Single-View Rolling-Shutter SfM**|Sofía Errázuriz Muñoz et.al.|[2603.11888v1](http://arxiv.org/abs/2603.11888v1)|null|
 |**2026-03-11**|**GGPT: Geometry Grounded Point Transformer**|Yutong Chen et.al.|[2603.11174v1](http://arxiv.org/abs/2603.11174v1)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055v1](http://arxiv.org/abs/2603.08055v1)|null|
@@ -1540,6 +1544,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917v1](http://arxiv.org/abs/2603.13917v1)|null|
+|**2026-03-14**|**Sky2Ground: A Benchmark for Site Modeling under Varying Altitude**|Zengyan Wang et.al.|[2603.13740v1](http://arxiv.org/abs/2603.13740v1)|null|
 |**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690v1](http://arxiv.org/abs/2603.12690v1)|null|
 |**2026-03-12**|**Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network**|Min Hao et.al.|[2603.11398v1](http://arxiv.org/abs/2603.11398v1)|null|
 |**2026-03-09**|**$L^3$:Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937v1](http://arxiv.org/abs/2603.07937v1)|null|
@@ -2050,6 +2056,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556v1](http://arxiv.org/abs/2603.13556v1)|null|
 |**2026-03-05**|**From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications**|Xusheng Luo et.al.|[2603.05604v1](http://arxiv.org/abs/2603.05604v1)|null|
 |**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|
 |**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904v1](http://arxiv.org/abs/2602.21904v1)|null|
