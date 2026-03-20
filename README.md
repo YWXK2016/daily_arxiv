@@ -1,9 +1,12 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**DROID-SLAM in the Wild**|Moyang Li et.al.|[2603.19076v1](http://arxiv.org/abs/2603.19076v1)|null|
+|**2026-03-19**|**ROFT-VINS: Robust Feature Tracking-based Visual-Inertial State Estimation for Harsh Environment**|Sanghyun Park et.al.|[2603.18746v1](http://arxiv.org/abs/2603.18746v1)|null|
+|**2026-03-18**|**Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting**|Guillem Casadesus Vila et.al.|[2603.18218v1](http://arxiv.org/abs/2603.18218v1)|null|
 |**2026-03-18**|**Compressive Structures in the Foreshock of Collisionless Shocks**|Savvas Raptis et.al.|[2603.17882v1](http://arxiv.org/abs/2603.17882v1)|null|
 |**2026-03-18**|**OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery**|Yiwen Zhao et.al.|[2603.17355v1](http://arxiv.org/abs/2603.17355v1)|null|
 |**2026-03-18**|**Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge**|Adam Dai et.al.|[2603.17232v1](http://arxiv.org/abs/2603.17232v1)|null|
