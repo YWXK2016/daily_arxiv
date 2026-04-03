@@ -1,9 +1,10 @@
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107v1](http://arxiv.org/abs/2604.02107v1)|null|
 |**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|
 |**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804v1](http://arxiv.org/abs/2604.00804v1)|null|
 |**2026-04-01**|**A Dual-Stream Transformer Architecture for Illumination-Invariant TIR-LiDAR Person Tracking**|Yuki Minase et.al.|[2604.00363v1](http://arxiv.org/abs/2604.00363v1)|null|
