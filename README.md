@@ -1,9 +1,19 @@
-## Updated on 2026.04.17
+## Updated on 2026.09.19
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604v1](http://arxiv.org/abs/2609.20604v1)|null|
+|**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589v1](http://arxiv.org/abs/2609.20589v1)|null|
+|**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Enpeng Li et.al.|[2609.20012v1](http://arxiv.org/abs/2609.20012v1)|null|
+|**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628v1](http://arxiv.org/abs/2609.19628v1)|null|
+|**2026-09-17**|**SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints**|Mohamed Hefny et.al.|[2609.19533v1](http://arxiv.org/abs/2609.19533v1)|null|
+|**2026-09-17**|**AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend**|Hengyi Wang et.al.|[2609.19518v1](http://arxiv.org/abs/2609.19518v1)|null|
+|**2026-09-16**|**SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM**|Kalvik Jakkala et.al.|[2609.18893v1](http://arxiv.org/abs/2609.18893v1)|null|
+|**2026-09-15**|**Co-occurrence-Aware Quadratic Assignment for Local Feature Matching in Simultaneous Localization and Mapping**|Yutaka Yamada et.al.|[2609.17905v1](http://arxiv.org/abs/2609.17905v1)|null|
+|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387v1](http://arxiv.org/abs/2609.17387v1)|null|
+|**2026-09-15**|**Online Geometric Change Detection via Scene Decomposition**|David Thorne et.al.|[2609.17302v1](http://arxiv.org/abs/2609.17302v1)|null|
 |**2026-04-16**|**Dual Pose-Graph Semantic Localization for Vision-Based Autonomous Drone Racing**|David Perez-Saura et.al.|[2604.15168v1](http://arxiv.org/abs/2604.15168v1)|null|
 |**2026-04-16**|**CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture**|Giacomo Franchini et.al.|[2604.15052v1](http://arxiv.org/abs/2604.15052v1)|null|
 |**2026-04-16**|**Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye**|Tianjun Zhang et.al.|[2604.14795v1](http://arxiv.org/abs/2604.14795v1)|null|
@@ -1278,6 +1288,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589v1](http://arxiv.org/abs/2609.20589v1)|null|
+|**2026-09-16**|**RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment**|Fangjie Li et.al.|[2609.19236v1](http://arxiv.org/abs/2609.19236v1)|null|
+|**2026-09-12**|**SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences**|Zhuoxiao Li et.al.|[2609.13903v1](http://arxiv.org/abs/2609.13903v1)|null|
+|**2026-09-07**|**Multi-View Structure-from-Motion Enables Oriented Projective Shape Analysis in Three Dimensions**|Musab Alamoudi et.al.|[2609.13263v1](http://arxiv.org/abs/2609.13263v1)|null|
+|**2026-09-11**|**NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis**|Shaurya Pavan A et.al.|[2609.12682v1](http://arxiv.org/abs/2609.12682v1)|null|
+|**2026-09-11**|**Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAP for robotized harvesting**|Fernando Cañadas-Aránega et.al.|[2609.11766v2](http://arxiv.org/abs/2609.11766v2)|null|
+|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491v1](http://arxiv.org/abs/2609.09491v1)|null|
+|**2026-09-04**|**BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors**|Vincent Leroy et.al.|[2609.05210v1](http://arxiv.org/abs/2609.05210v1)|null|
+|**2026-09-14**|**HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction**|Ziding Zhao et.al.|[2609.04718v2](http://arxiv.org/abs/2609.04718v2)|null|
+|**2026-09-04**|**XDG: Accelerated Visual Disambiguation**|Gonglin Chen et.al.|[2608.29733v2](http://arxiv.org/abs/2608.29733v2)|null|
 |**2026-04-15**|**Geometrically Consistent Multi-View Scene Generation from Freehand Sketches**|Ahmed Bourouis et.al.|[2604.14302v1](http://arxiv.org/abs/2604.14302v1)|null|
 |**2026-04-14**|**PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction**|Prajas Wadekar et.al.|[2604.13153v1](http://arxiv.org/abs/2604.13153v1)|null|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992v1](http://arxiv.org/abs/2604.11992v1)|null|
@@ -1616,6 +1636,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876v1](http://arxiv.org/abs/2609.19876v1)|null|
+|**2026-09-16**|**PIVOT: Perception-aware Independent Viewpoint Online Optimization**|Yuyang Chen et.al.|[2609.19510v1](http://arxiv.org/abs/2609.19510v1)|null|
+|**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168v1](http://arxiv.org/abs/2609.17168v1)|null|
+|**2026-09-15**|**G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity**|Shuo Zhang et.al.|[2609.15018v2](http://arxiv.org/abs/2609.15018v2)|null|
+|**2026-09-10**|**Chain-SLAM: Globally Consistent Backend for Multi-Session LiDAR SLAM via Chained Loop Closure**|Zhiheng Li et.al.|[2609.12221v1](http://arxiv.org/abs/2609.12221v1)|null|
+|**2026-09-07**|**TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases**|Dominik A. Kloepfer et.al.|[2609.07373v1](http://arxiv.org/abs/2609.07373v1)|null|
+|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369v1](http://arxiv.org/abs/2609.04369v1)|null|
+|**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798v1](http://arxiv.org/abs/2609.02798v1)|null|
+|**2026-09-05**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319v2](http://arxiv.org/abs/2609.02319v2)|null|
+|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012v1](http://arxiv.org/abs/2609.02012v1)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|null|
 |**2026-04-13**|**Privacy-Preserving Structureless Visual Localization via Image Obfuscation**|Vojtech Panek et.al.|[2604.12068v1](http://arxiv.org/abs/2604.12068v1)|null|
 |**2026-04-13**|**Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions**|Seongyu Kim et.al.|[2604.11579v1](http://arxiv.org/abs/2604.11579v1)|null|
@@ -2143,6 +2173,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343v1](http://arxiv.org/abs/2609.06343v1)|null|
+|**2026-09-09**|**Phase-Aware Spatial-Frequency Fusion for Few-Shot Fine-Grained Image Classification**|Ruiling Liu et.al.|[2609.03829v2](http://arxiv.org/abs/2609.03829v2)|null|
+|**2026-08-31**|**CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space**|Paul Schneider et.al.|[2609.00272v1](http://arxiv.org/abs/2609.00272v1)|null|
+|**2026-08-29**|**Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data**|Thiago César Castilho Almeida et.al.|[2608.29001v1](http://arxiv.org/abs/2608.29001v1)|null|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|
+|**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|
+|**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|null|
+|**2026-08-18**|**Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression**|Chandra Yuvesh Aubeeluck et.al.|[2608.17691v1](http://arxiv.org/abs/2608.17691v1)|null|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785v1](http://arxiv.org/abs/2608.16785v1)|null|
+|**2026-09-15**|**Point Feature Descriptor via Directional Partition of Unity on Maps**|Phan Thanh An et.al.|[2608.12794v2](http://arxiv.org/abs/2608.12794v2)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|null|
 |**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309v1](http://arxiv.org/abs/2604.13309v1)|null|
 |**2026-04-10**|**Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application**|Junqi Liu et.al.|[2604.09421v1](http://arxiv.org/abs/2604.09421v1)|null|
@@ -2439,6 +2479,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**RoMa-$Ω$: What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507v1](http://arxiv.org/abs/2609.09507v1)|null|
+|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343v1](http://arxiv.org/abs/2609.06343v1)|null|
+|**2026-09-04**|**ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization**|Hyeongsik Kim et.al.|[2609.04965v1](http://arxiv.org/abs/2609.04965v1)|null|
+|**2026-09-02**|**Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization**|Dasol Yoon et.al.|[2609.02126v1](http://arxiv.org/abs/2609.02126v1)|null|
+|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012v1](http://arxiv.org/abs/2609.02012v1)|null|
+|**2026-09-04**|**XDG: Accelerated Visual Disambiguation**|Gonglin Chen et.al.|[2608.29733v2](http://arxiv.org/abs/2608.29733v2)|null|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012v1](http://arxiv.org/abs/2608.23012v1)|null|
+|**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624v1](http://arxiv.org/abs/2608.18624v1)|null|
+|**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037v1](http://arxiv.org/abs/2608.11037v1)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|null|
 |**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809v1](http://arxiv.org/abs/2604.11809v1)|null|
 |**2026-04-11**|**DeepShapeMatchingKit: Accelerated Functional Map Solver and Shape Matching Pipelines Revisited**|Yizheng Xie et.al.|[2604.10377v1](http://arxiv.org/abs/2604.10377v1)|null|
