@@ -42,8 +42,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     cnt = 0
-
-    for result in search_engine.results():
+    client = arxiv.Client()
+    # 将原来循环的那一行替换为下面这一行
+    for result in client.results(search_engine):
+    # for result in search_engine.results():
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
