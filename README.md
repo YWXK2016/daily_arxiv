@@ -1,9 +1,13 @@
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766v1](http://arxiv.org/abs/2609.26766v1)|null|
+|**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315v1](http://arxiv.org/abs/2609.26315v1)|null|
+|**2026-09-22**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932v1](http://arxiv.org/abs/2609.25932v1)|null|
+|**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746v1](http://arxiv.org/abs/2609.25746v1)|null|
 |**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846v1](http://arxiv.org/abs/2609.24846v1)|null|
 |**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708v1](http://arxiv.org/abs/2609.24708v1)|null|
 |**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140v1](http://arxiv.org/abs/2609.24140v1)|null|
@@ -1646,6 +1650,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766v1](http://arxiv.org/abs/2609.26766v1)|null|
+|**2026-09-22**|**Calibrating Retrieval Geometry: Reliability-Guided Training-Free Aggregation for Visual Place Recognition**|Xin Li et.al.|[2609.25937v1](http://arxiv.org/abs/2609.25937v1)|null|
+|**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907v1](http://arxiv.org/abs/2609.25907v1)|null|
 |**2026-09-21**|**DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding**|Xiaoqiang Lu et.al.|[2609.24409v1](http://arxiv.org/abs/2609.24409v1)|null|
 |**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219v1](http://arxiv.org/abs/2609.21219v1)|null|
 |**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876v1](http://arxiv.org/abs/2609.19876v1)|null|
