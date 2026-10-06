@@ -1,9 +1,12 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Stellarators Linking Axisymmetric Mirrors Part 1: Coil Design, MHD Equilibrium, and Physics Metrics**|Rahul Gaur et.al.|[2610.06085v1](http://arxiv.org/abs/2610.06085v1)|null|
+|**2026-10-05**|**Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM**|Junhyun Nam et.al.|[2610.05757v1](http://arxiv.org/abs/2610.05757v1)|null|
+|**2026-10-04**|**F$^2$ SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM**|Zhisong Xu et.al.|[2610.05207v1](http://arxiv.org/abs/2610.05207v1)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110v1](http://arxiv.org/abs/2610.02110v1)|null|
 |**2026-09-30**|**BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph**|Jan Steckel et.al.|[2609.40085v1](http://arxiv.org/abs/2609.40085v1)|null|
 |**2026-09-30**|**MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM**|Asier Bikandi-Noya et.al.|[2609.39596v1](http://arxiv.org/abs/2609.39596v1)|null|
@@ -1324,6 +1327,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939v1](http://arxiv.org/abs/2610.05939v1)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098v1](http://arxiv.org/abs/2610.01098v1)|null|
 |**2026-09-30**|**Introduction to Computer Vision**|Stan Birchfield et.al.|[2609.39627v1](http://arxiv.org/abs/2609.39627v1)|null|
 |**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969v1](http://arxiv.org/abs/2609.36969v1)|null|
@@ -2227,6 +2231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423v1](http://arxiv.org/abs/2610.06423v1)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490v2](http://arxiv.org/abs/2609.35490v2)|null|
 |**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343v1](http://arxiv.org/abs/2609.06343v1)|null|
 |**2026-09-09**|**Phase-Aware Spatial-Frequency Fusion for Few-Shot Fine-Grained Image Classification**|Ruiling Liu et.al.|[2609.03829v2](http://arxiv.org/abs/2609.03829v2)|null|
