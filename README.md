@@ -1,9 +1,12 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604v1](http://arxiv.org/abs/2610.08604v1)|null|
+|**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788v1](http://arxiv.org/abs/2610.07788v1)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217v1](http://arxiv.org/abs/2610.07217v1)|null|
 |**2026-10-05**|**Stellarators Linking Axisymmetric Mirrors Part 1: Coil Design, MHD Equilibrium, and Physics Metrics**|Rahul Gaur et.al.|[2610.06085v1](http://arxiv.org/abs/2610.06085v1)|null|
 |**2026-10-05**|**Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM**|Junhyun Nam et.al.|[2610.05757v1](http://arxiv.org/abs/2610.05757v1)|null|
 |**2026-10-04**|**F$^2$ SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM**|Zhisong Xu et.al.|[2610.05207v1](http://arxiv.org/abs/2610.05207v1)|null|
@@ -1327,6 +1330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788v1](http://arxiv.org/abs/2610.07788v1)|null|
 |**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939v1](http://arxiv.org/abs/2610.05939v1)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098v1](http://arxiv.org/abs/2610.01098v1)|null|
 |**2026-09-30**|**Introduction to Computer Vision**|Stan Birchfield et.al.|[2609.39627v1](http://arxiv.org/abs/2609.39627v1)|null|
@@ -2539,6 +2543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384v1](http://arxiv.org/abs/2610.07384v1)|null|
 |**2026-10-02**|**Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration**|Zhiwei Wang et.al.|[2610.03167v1](http://arxiv.org/abs/2610.03167v1)|null|
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689v1](http://arxiv.org/abs/2609.38689v1)|null|
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980v1](http://arxiv.org/abs/2609.36980v1)|null|
