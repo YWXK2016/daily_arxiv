@@ -1,9 +1,14 @@
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Jing Xia et.al.|[2610.21586v1](http://arxiv.org/abs/2610.21586v1)|null|
+|**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409v1](http://arxiv.org/abs/2610.21409v1)|null|
+|**2026-10-15**|**LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation**|Shiqi Che et.al.|[2610.21199v1](http://arxiv.org/abs/2610.21199v1)|null|
+|**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958v1](http://arxiv.org/abs/2610.20958v1)|null|
+|**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844v1](http://arxiv.org/abs/2610.20844v1)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742v1](http://arxiv.org/abs/2610.19742v1)|null|
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674v1](http://arxiv.org/abs/2610.19674v1)|null|
 |**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044v1](http://arxiv.org/abs/2610.19044v1)|null|
@@ -1346,6 +1351,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090v1](http://arxiv.org/abs/2610.21090v1)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097v1](http://arxiv.org/abs/2610.19097v1)|null|
 |**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157v1](http://arxiv.org/abs/2610.15157v1)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788v1](http://arxiv.org/abs/2610.07788v1)|null|
@@ -1705,6 +1711,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222v1](http://arxiv.org/abs/2610.21222v1)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742v1](http://arxiv.org/abs/2610.19742v1)|null|
 |**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260v1](http://arxiv.org/abs/2610.17260v1)|null|
 |**2026-10-12**|**Recovering from Pose-Selection Failures in Repeated Visual Localization**|Jaehyun Kim et.al.|[2610.16409v1](http://arxiv.org/abs/2610.16409v1)|null|
@@ -2262,6 +2269,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach**|Viktoria Ehm et.al.|[2610.21802v1](http://arxiv.org/abs/2610.21802v1)|null|
 |**2026-10-12**|**Towards Complementary Keypoint Detection via Mixture of Detectors**|Xiaoyong Lu et.al.|[2610.16762v1](http://arxiv.org/abs/2610.16762v1)|null|
 |**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245v1](http://arxiv.org/abs/2610.10245v1)|null|
 |**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423v1](http://arxiv.org/abs/2610.06423v1)|null|
