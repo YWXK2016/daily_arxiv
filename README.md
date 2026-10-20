@@ -1,9 +1,14 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Ruicheng Li et.al.|[2610.26780v1](http://arxiv.org/abs/2610.26780v1)|null|
+|**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633v1](http://arxiv.org/abs/2610.26633v1)|null|
+|**2026-10-19**|**EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience**|Xinhao Ji et.al.|[2610.26625v1](http://arxiv.org/abs/2610.26625v1)|null|
+|**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261v1](http://arxiv.org/abs/2610.25261v1)|null|
+|**2026-10-16**|**The Rise of Personal Trackers as the Next Infrastructure for Ubiquitous Positioning**|Mohamed I. Hany et.al.|[2610.24249v1](http://arxiv.org/abs/2610.24249v1)|null|
 |**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Haorui Du et.al.|[2610.23496v1](http://arxiv.org/abs/2610.23496v1)|null|
 |**2026-10-15**|**RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar**|Jan Steckel et.al.|[2610.22552v1](http://arxiv.org/abs/2610.22552v1)|null|
 |**2026-10-15**|**KFS$^4$LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505v1](http://arxiv.org/abs/2610.22505v1)|null|
@@ -1354,7 +1359,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090v1](http://arxiv.org/abs/2610.21090v1)|null|
+|**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090v2](http://arxiv.org/abs/2610.21090v2)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097v1](http://arxiv.org/abs/2610.19097v1)|null|
 |**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157v1](http://arxiv.org/abs/2610.15157v1)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788v1](http://arxiv.org/abs/2610.07788v1)|null|
@@ -1714,6 +1719,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[2610.26729v1](http://arxiv.org/abs/2610.26729v1)|null|
+|**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358v1](http://arxiv.org/abs/2610.25358v1)|null|
+|**2026-10-13**|**SituHOI: Scalable Capture of Scene-Situated Full-Body Human-Object Interaction**|Qifan Wang et.al.|[2610.23980v1](http://arxiv.org/abs/2610.23980v1)|null|
 |**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021v1](http://arxiv.org/abs/2610.23021v1)|null|
 |**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222v1](http://arxiv.org/abs/2610.21222v1)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742v1](http://arxiv.org/abs/2610.19742v1)|null|
@@ -2584,6 +2592,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358v1](http://arxiv.org/abs/2610.25358v1)|null|
+|**2026-10-16**|**DinoMUSE: A DINOv2-guided Framework for Unsupervised Lateral Motion Estimation in Ultrasound Elastography**|Xiyao Meng et.al.|[2610.24020v1](http://arxiv.org/abs/2610.24020v1)|null|
 |**2026-10-12**|**The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors**|Shu Zhao et.al.|[2610.16977v1](http://arxiv.org/abs/2610.16977v1)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541v1](http://arxiv.org/abs/2610.13541v1)|null|
 |**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384v1](http://arxiv.org/abs/2610.07384v1)|null|
