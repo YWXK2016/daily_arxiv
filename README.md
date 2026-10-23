@@ -1,9 +1,11 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Consistent Distributed Invariant EKF SLAM with Point and Object Features**|Mengya Xu et.al.|[2610.31221v1](http://arxiv.org/abs/2610.31221v1)|null|
+|**2026-10-22**|**Evaluation of Front-End Feature Matching for Lunar Visual SLAM**|Guillem Casadesus Vila et.al.|[2610.30774v1](http://arxiv.org/abs/2610.30774v1)|null|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936v1](http://arxiv.org/abs/2610.29936v1)|null|
 |**2026-10-20**|**MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration**|Kelvin Aladum et.al.|[2610.28566v1](http://arxiv.org/abs/2610.28566v1)|null|
 |**2026-10-20**|**A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera**|Yosub Shin et.al.|[2610.27622v1](http://arxiv.org/abs/2610.27622v1)|null|
@@ -1362,6 +1364,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321v1](http://arxiv.org/abs/2610.31321v1)|null|
 |**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190v1](http://arxiv.org/abs/2610.28190v1)|null|
 |**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090v2](http://arxiv.org/abs/2610.21090v2)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097v1](http://arxiv.org/abs/2610.19097v1)|null|
@@ -1723,6 +1726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321v1](http://arxiv.org/abs/2610.31321v1)|null|
 |**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522v1](http://arxiv.org/abs/2610.27522v1)|null|
 |**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110v1](http://arxiv.org/abs/2610.27110v1)|null|
 |**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[2610.26729v1](http://arxiv.org/abs/2610.26729v1)|null|
@@ -2598,6 +2602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation**|Jinyuan Mao et.al.|[2610.30875v1](http://arxiv.org/abs/2610.30875v1)|null|
 |**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358v1](http://arxiv.org/abs/2610.25358v1)|null|
 |**2026-10-16**|**DinoMUSE: A DINOv2-guided Framework for Unsupervised Lateral Motion Estimation in Ultrasound Elastography**|Xiyao Meng et.al.|[2610.24020v1](http://arxiv.org/abs/2610.24020v1)|null|
 |**2026-10-12**|**The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors**|Shu Zhao et.al.|[2610.16977v1](http://arxiv.org/abs/2610.16977v1)|null|
