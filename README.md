@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 
 ## SLAM
 
@@ -1364,6 +1364,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976v1](http://arxiv.org/abs/2610.32976v1)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321v1](http://arxiv.org/abs/2610.31321v1)|null|
 |**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190v1](http://arxiv.org/abs/2610.28190v1)|null|
 |**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090v2](http://arxiv.org/abs/2610.21090v2)|null|
@@ -1726,6 +1727,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976v1](http://arxiv.org/abs/2610.32976v1)|null|
+|**2026-10-23**|**Guided Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring: Context, Categorization, and Spatial Localization**|Mulugeta Weldezgina Asres et.al.|[2610.32073v1](http://arxiv.org/abs/2610.32073v1)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321v1](http://arxiv.org/abs/2610.31321v1)|null|
 |**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522v1](http://arxiv.org/abs/2610.27522v1)|null|
 |**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110v1](http://arxiv.org/abs/2610.27110v1)|null|
@@ -2602,6 +2605,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**ACVA-Bench: Beyond Prompt Following in Abstract Concept Visualization Ability for Text-to-Image Models**|Mengyan Wang et.al.|[2610.32058v1](http://arxiv.org/abs/2610.32058v1)|null|
 |**2026-10-22**|**HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation**|Jinyuan Mao et.al.|[2610.30875v1](http://arxiv.org/abs/2610.30875v1)|null|
 |**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358v1](http://arxiv.org/abs/2610.25358v1)|null|
 |**2026-10-16**|**DinoMUSE: A DINOv2-guided Framework for Unsupervised Lateral Motion Estimation in Ultrasound Elastography**|Xiyao Meng et.al.|[2610.24020v1](http://arxiv.org/abs/2610.24020v1)|null|
