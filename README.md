@@ -1,9 +1,13 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition**|Wenhui Feng et.al.|[2610.39691v1](http://arxiv.org/abs/2610.39691v1)|null|
+|**2026-10-29**|**UMI-Live for In-The-Wild Bimanual Robotics Data Collection**|Govind Velamoor et.al.|[2610.39385v1](http://arxiv.org/abs/2610.39385v1)|null|
+|**2026-10-28**|**SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites**|Hogyun Kim et.al.|[2610.38141v1](http://arxiv.org/abs/2610.38141v1)|null|
+|**2026-10-27**|**A Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals: Weakening Boundedness of Gradient**|Qi Wang et.al.|[2610.37947v1](http://arxiv.org/abs/2610.37947v1)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111v1](http://arxiv.org/abs/2610.37111v1)|null|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876v1](http://arxiv.org/abs/2610.36876v1)|null|
 |**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853v1](http://arxiv.org/abs/2610.36853v1)|null|
@@ -2311,6 +2315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467v1](http://arxiv.org/abs/2610.40467v1)|null|
 |**2026-10-15**|**Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach**|Viktoria Ehm et.al.|[2610.21802v1](http://arxiv.org/abs/2610.21802v1)|null|
 |**2026-10-12**|**Towards Complementary Keypoint Detection via Mixture of Detectors**|Xiaoyong Lu et.al.|[2610.16762v1](http://arxiv.org/abs/2610.16762v1)|null|
 |**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245v1](http://arxiv.org/abs/2610.10245v1)|null|
@@ -2622,6 +2627,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643v1](http://arxiv.org/abs/2610.40643v1)|null|
+|**2026-10-29**|**Comprehensive empirical evaluation of feature extractors in computer vision**|Murat Isik et.al.|[2610.39551v1](http://arxiv.org/abs/2610.39551v1)|null|
+|**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349v1](http://arxiv.org/abs/2610.38349v1)|null|
 |**2026-10-23**|**ACVA-Bench: Beyond Prompt Following in Abstract Concept Visualization Ability for Text-to-Image Models**|Mengyan Wang et.al.|[2610.32058v1](http://arxiv.org/abs/2610.32058v1)|null|
 |**2026-10-22**|**HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation**|Jinyuan Mao et.al.|[2610.30875v1](http://arxiv.org/abs/2610.30875v1)|null|
 |**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358v1](http://arxiv.org/abs/2610.25358v1)|null|
