@@ -1,9 +1,12 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot**|Zhanghao Zhu et.al.|[2610.41768v1](http://arxiv.org/abs/2610.41768v1)|null|
+|**2026-10-30**|**DrawSplat: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction**|Fan Zhu et.al.|[2610.41602v1](http://arxiv.org/abs/2610.41602v1)|null|
+|**2026-10-29**|**Stochastic Linesearch Methods for Stochastic Variational Inequality Problems: Parameter-Free Schemes and Non-Monotone Variants**|Zhuoyu Xiao et.al.|[2610.41065v1](http://arxiv.org/abs/2610.41065v1)|null|
 |**2026-10-29**|**Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition**|Wenhui Feng et.al.|[2610.39691v1](http://arxiv.org/abs/2610.39691v1)|null|
 |**2026-10-29**|**UMI-Live for In-The-Wild Bimanual Robotics Data Collection**|Govind Velamoor et.al.|[2610.39385v1](http://arxiv.org/abs/2610.39385v1)|null|
 |**2026-10-28**|**SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites**|Hogyun Kim et.al.|[2610.38141v1](http://arxiv.org/abs/2610.38141v1)|null|
@@ -1745,6 +1748,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization**|Hanqiao Ye et.al.|[2610.41833v1](http://arxiv.org/abs/2610.41833v1)|null|
+|**2026-10-30**|**Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization**|Tianyu Xiong et.al.|[2610.41373v1](http://arxiv.org/abs/2610.41373v1)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111v1](http://arxiv.org/abs/2610.37111v1)|null|
 |**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642v1](http://arxiv.org/abs/2610.35642v1)|null|
 |**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413v1](http://arxiv.org/abs/2610.33413v1)|null|
