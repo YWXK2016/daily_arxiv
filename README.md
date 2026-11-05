@@ -1,9 +1,10 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308v1](http://arxiv.org/abs/2611.06308v1)|null|
 |**2026-11-03**|**Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use**|Bo Ma et.al.|[2611.04397v1](http://arxiv.org/abs/2611.04397v1)|null|
 |**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358v1](http://arxiv.org/abs/2611.04358v1)|null|
 |**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932v1](http://arxiv.org/abs/2611.03932v1)|null|
@@ -1389,6 +1390,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020v1](http://arxiv.org/abs/2611.06020v1)|null|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361v1](http://arxiv.org/abs/2611.05361v1)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084v1](http://arxiv.org/abs/2611.05084v1)|null|
 |**2026-11-02**|**Solv3R: 3D Looped Transformer as a Multi-view Solver**|Jeong-gi Kwak et.al.|[2611.02857v1](http://arxiv.org/abs/2611.02857v1)|null|
@@ -1761,6 +1763,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation**|Jingwen Yu et.al.|[2611.06378v1](http://arxiv.org/abs/2611.06378v1)|null|
 |**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286v1](http://arxiv.org/abs/2611.05286v1)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084v1](http://arxiv.org/abs/2611.05084v1)|null|
 |**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932v1](http://arxiv.org/abs/2611.03932v1)|null|
