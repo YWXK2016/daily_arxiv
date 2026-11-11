@@ -1,16 +1,19 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**CFAR Detection on Non-Coherently Integrated Angular Maps for mmWave Radio SLAM**|Paolo Tosi et.al.|[2611.14250v1](http://arxiv.org/abs/2611.14250v1)|null|
+|**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528v1](http://arxiv.org/abs/2611.13528v1)|null|
+|**2026-11-06**|**Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions**|Alvaro J. Gaona et.al.|[2611.12949v1](http://arxiv.org/abs/2611.12949v1)|null|
 |**2026-11-09**|**V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM**|Maolin Ye et.al.|[2611.12452v1](http://arxiv.org/abs/2611.12452v1)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
 |**2026-11-09**|**Prop-WRF: Proposal-Guided Wireless Radiance Field for Scalable Multi-Frequency Outdoor Channel Frequency Response Prediction**|Yulin Fu et.al.|[2611.11845v1](http://arxiv.org/abs/2611.11845v1)|null|
 |**2026-11-09**|**ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association**|Nan Wu et.al.|[2611.11825v1](http://arxiv.org/abs/2611.11825v1)|null|
 |**2026-11-08**|**Map2SLAM: From Streaming Map Prediction to Real-Time SLAM**|Jian Gao et.al.|[2611.11169v1](http://arxiv.org/abs/2611.11169v1)|null|
 |**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239v1](http://arxiv.org/abs/2611.10239v1)|null|
-|**2026-11-05**|**An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers**|Iaroslav Kolomiets et.al.|[2611.08100v1](http://arxiv.org/abs/2611.08100v1)|null|
+|**2026-11-09**|**An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers**|Iaroslav Kolomiets et.al.|[2611.08100v2](http://arxiv.org/abs/2611.08100v2)|null|
 |**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308v1](http://arxiv.org/abs/2611.06308v1)|null|
 |**2026-11-03**|**Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use**|Bo Ma et.al.|[2611.04397v1](http://arxiv.org/abs/2611.04397v1)|null|
 |**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358v1](http://arxiv.org/abs/2611.04358v1)|null|
