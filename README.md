@@ -1,14 +1,16 @@
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5**|Himanshu Patil et.al.|[2611.16472v1](http://arxiv.org/abs/2611.16472v1)|null|
+|**2026-11-11**|**IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision**|Mrunmai Phatak et.al.|[2611.15429v1](http://arxiv.org/abs/2611.15429v1)|null|
 |**2026-11-10**|**CFAR Detection on Non-Coherently Integrated Angular Maps for mmWave Radio SLAM**|Paolo Tosi et.al.|[2611.14250v1](http://arxiv.org/abs/2611.14250v1)|null|
 |**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528v1](http://arxiv.org/abs/2611.13528v1)|null|
 |**2026-11-06**|**Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions**|Alvaro J. Gaona et.al.|[2611.12949v1](http://arxiv.org/abs/2611.12949v1)|null|
 |**2026-11-09**|**V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM**|Maolin Ye et.al.|[2611.12452v1](http://arxiv.org/abs/2611.12452v1)|null|
-|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
+|**2026-11-12**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v2](http://arxiv.org/abs/2611.12038v2)|null|
 |**2026-11-09**|**Prop-WRF: Proposal-Guided Wireless Radiance Field for Scalable Multi-Frequency Outdoor Channel Frequency Response Prediction**|Yulin Fu et.al.|[2611.11845v1](http://arxiv.org/abs/2611.11845v1)|null|
 |**2026-11-09**|**ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association**|Nan Wu et.al.|[2611.11825v1](http://arxiv.org/abs/2611.11825v1)|null|
 |**2026-11-08**|**Map2SLAM: From Streaming Map Prediction to Real-Time SLAM**|Jian Gao et.al.|[2611.11169v1](http://arxiv.org/abs/2611.11169v1)|null|
@@ -1782,7 +1784,7 @@
 |**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954v1](http://arxiv.org/abs/2611.08954v1)|null|
 |**2026-11-09**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136v2](http://arxiv.org/abs/2611.08136v2)|null|
 |**2026-11-04**|**UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation**|Jingwen Yu et.al.|[2611.06378v1](http://arxiv.org/abs/2611.06378v1)|null|
-|**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286v1](http://arxiv.org/abs/2611.05286v1)|null|
+|**2026-11-11**|**Anchored Rank-Adversarial Fine-Tuning of Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286v2](http://arxiv.org/abs/2611.05286v2)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084v1](http://arxiv.org/abs/2611.05084v1)|null|
 |**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932v1](http://arxiv.org/abs/2611.03932v1)|null|
 |**2026-11-02**|**Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models**|Jaemin Cho et.al.|[2611.03098v1](http://arxiv.org/abs/2611.03098v1)|null|
