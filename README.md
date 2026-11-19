@@ -1,9 +1,12 @@
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Induction Head Origins of SLAM-ASR Speech Recognition Models**|Artem Fedorchenko et.al.|[2611.24721v1](http://arxiv.org/abs/2611.24721v1)|null|
+|**2026-11-18**|**Proprioceptive Simultaneous Base and Terrain Elevation Estimation for Legged Robot Locomotion**|Michael Maravgakis et.al.|[2611.24310v1](http://arxiv.org/abs/2611.24310v1)|null|
+|**2026-11-18**|**Facet-SLAM: Real-Time Triangle Splatting SLAM**|Edward Beng Wai Tan et.al.|[2611.23935v1](http://arxiv.org/abs/2611.23935v1)|null|
 |**2026-11-17**|**Pressure Drop: Gravity Vector Estimation from a Distributed Barometric Pressure Sensor Array**|William Dubois et.al.|[2611.23120v1](http://arxiv.org/abs/2611.23120v1)|null|
 |**2026-11-17**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Aria Dadnavi et.al.|[2611.22852v1](http://arxiv.org/abs/2611.22852v1)|null|
 |**2026-11-17**|**CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure**|Qi Shao et.al.|[2611.22235v1](http://arxiv.org/abs/2611.22235v1)|null|
@@ -1790,6 +1793,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432v1](http://arxiv.org/abs/2611.23432v1)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012v1](http://arxiv.org/abs/2611.23012v1)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506v1](http://arxiv.org/abs/2611.22506v1)|null|
 |**2026-11-16**|**Beyond Appearance: Where Forest Visual Place Recognition Actually Fails**|Blake Matheson et.al.|[2611.21996v1](http://arxiv.org/abs/2611.21996v1)|null|
