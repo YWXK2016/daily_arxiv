@@ -1,9 +1,10 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU**|Jaafar Mahmoud et.al.|[2611.25279v1](http://arxiv.org/abs/2611.25279v1)|null|
 |**2026-11-18**|**Induction Head Origins of SLAM-ASR Speech Recognition Models**|Artem Fedorchenko et.al.|[2611.24721v1](http://arxiv.org/abs/2611.24721v1)|null|
 |**2026-11-18**|**Proprioceptive Simultaneous Base and Terrain Elevation Estimation for Legged Robot Locomotion**|Michael Maravgakis et.al.|[2611.24310v1](http://arxiv.org/abs/2611.24310v1)|null|
 |**2026-11-18**|**Facet-SLAM: Real-Time Triangle Splatting SLAM**|Edward Beng Wai Tan et.al.|[2611.23935v1](http://arxiv.org/abs/2611.23935v1)|null|
@@ -1413,6 +1414,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493v1](http://arxiv.org/abs/2611.26493v1)|null|
+|**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083v1](http://arxiv.org/abs/2611.26083v1)|null|
 |**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Jongmin Lee et.al.|[2611.23051v1](http://arxiv.org/abs/2611.23051v1)|null|
 |**2026-11-16**|**Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery**|Dewi Endah Kharismawati et.al.|[2611.20502v1](http://arxiv.org/abs/2611.20502v1)|null|
 |**2026-11-09**|**Budget-aware Correspondence-driven View Selection for Real-time 3D Perception of Mobile Robots**|Vaishnav Ramesh et.al.|[2611.11809v1](http://arxiv.org/abs/2611.11809v1)|null|
@@ -2693,6 +2696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548v1](http://arxiv.org/abs/2611.25548v1)|null|
 |**2026-11-15**|**Mock Observations: Morphological Analysis of Galactic Bars in IllustrisTNG Simulations**|Jun-Yu Gong et.al.|[2611.19884v1](http://arxiv.org/abs/2611.19884v1)|null|
 |**2026-11-05**|**Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis**|Abhijith Shaji et.al.|[2611.08771v1](http://arxiv.org/abs/2611.08771v1)|null|
 |**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[2611.08352v1](http://arxiv.org/abs/2611.08352v1)|null|
