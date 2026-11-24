@@ -1,9 +1,11 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation**|Shrikrishna Bhagirath Rajule et.al.|[2611.30173v1](http://arxiv.org/abs/2611.30173v1)|null|
+|**2026-11-22**|**GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame**|Hanglei Jin et.al.|[2611.29614v1](http://arxiv.org/abs/2611.29614v1)|null|
 |**2026-11-20**|**BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles**|Adolfo Damiano Cafaro et.al.|[2611.27817v1](http://arxiv.org/abs/2611.27817v1)|null|
 |**2026-11-20**|**EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training**|Ankit Pal et.al.|[2611.27101v1](http://arxiv.org/abs/2611.27101v1)|null|
 |**2026-11-20**|**RoboCap-10k: A Metrically Accurate Egocentric Dataset for Robot Learning**|Kheri Hughes et.al.|[2611.26916v1](http://arxiv.org/abs/2611.26916v1)|null|
@@ -1417,6 +1419,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Screening for nonrigidity in structure from motion using projected reprojection residuals**|Íñigo Cirauqui-Viloria et.al.|[2611.30769v1](http://arxiv.org/abs/2611.30769v1)|null|
 |**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493v1](http://arxiv.org/abs/2611.26493v1)|null|
 |**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083v1](http://arxiv.org/abs/2611.26083v1)|null|
 |**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Jongmin Lee et.al.|[2611.23051v1](http://arxiv.org/abs/2611.23051v1)|null|
@@ -2700,6 +2703,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-22**|**Separating Action Allocation from Image Matching in Visual Token Routing**|Chenxi Wang et.al.|[2611.29477v1](http://arxiv.org/abs/2611.29477v1)|null|
 |**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548v1](http://arxiv.org/abs/2611.25548v1)|null|
 |**2026-11-15**|**Mock Observations: Morphological Analysis of Galactic Bars in IllustrisTNG Simulations**|Jun-Yu Gong et.al.|[2611.19884v1](http://arxiv.org/abs/2611.19884v1)|null|
 |**2026-11-05**|**Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis**|Abhijith Shaji et.al.|[2611.08771v1](http://arxiv.org/abs/2611.08771v1)|null|
