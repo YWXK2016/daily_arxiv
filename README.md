@@ -1,14 +1,16 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**CADENCE: Sensor-GroundedWorld-Consistent Gaussian SLAM for Collaborative Mobile Reconstruction**|Reshad Ul Karim et.al.|[2611.34549v1](http://arxiv.org/abs/2611.34549v1)|null|
+|**2026-11-25**|**End-to-End Image-Goal Navigation for Agile Quadrotors via Recurrent State Distillation**|Simone Nascivera et.al.|[2611.34046v1](http://arxiv.org/abs/2611.34046v1)|null|
 |**2026-11-24**|**SpatialArena: Where Do Geometric Foundation Models Stand?**|Yu Chen et.al.|[2611.32816v1](http://arxiv.org/abs/2611.32816v1)|null|
 |**2026-11-24**|**Seeing to Drive on a Single Board: Attention-Free Depth for Onboard Robot Navigation**|Itai Mizlish et.al.|[2611.32718v1](http://arxiv.org/abs/2611.32718v1)|null|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|
 |**2026-11-24**|**ROVO: Robust Rotation-Only Visual Odometry for UAVs at Low and Moderate Altitudes**|Xiaokai Song et.al.|[2611.32475v1](http://arxiv.org/abs/2611.32475v1)|null|
-|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335v1](http://arxiv.org/abs/2611.32335v1)|null|
+|**2026-11-25**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335v2](http://arxiv.org/abs/2611.32335v2)|null|
 |**2026-11-24**|**View Management with Gaussian Placement and Opacity Regularization for Online 3DGS**|Dong Hwi Kim et.al.|[2611.32025v1](http://arxiv.org/abs/2611.32025v1)|null|
 |**2026-11-23**|**Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation**|Shrikrishna Bhagirath Rajule et.al.|[2611.30173v1](http://arxiv.org/abs/2611.30173v1)|null|
 |**2026-11-22**|**GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame**|Hanglei Jin et.al.|[2611.29614v1](http://arxiv.org/abs/2611.29614v1)|null|
@@ -1425,6 +1427,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References**|Michael Baumgartner et.al.|[2611.34932v1](http://arxiv.org/abs/2611.34932v1)|null|
+|**2026-11-25**|**Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction**|Di Wu et.al.|[2611.33824v1](http://arxiv.org/abs/2611.33824v1)|null|
 |**2026-11-24**|**ST-SfM: Spatio-Temporal Structure-from-Motion for Initialising 4D Gaussian Splatting**| Harshit et.al.|[2611.32231v1](http://arxiv.org/abs/2611.32231v1)|null|
 |**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516v1](http://arxiv.org/abs/2611.31516v1)|null|
 |**2026-11-23**|**Screening for nonrigidity in structure from motion using projected reprojection residuals**|Íñigo Cirauqui-Viloria et.al.|[2611.30769v1](http://arxiv.org/abs/2611.30769v1)|null|
@@ -1810,6 +1814,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Towards Closing the Performance Gap in Cross-Modal Place Recognition**|Ofer Idan et.al.|[2611.34877v1](http://arxiv.org/abs/2611.34877v1)|null|
+|**2026-11-25**|**Who Is Ego? Scaling Cross-View Camera Wearer Identification and Segmentation beyond Humans**|Yifan Jin et.al.|[2611.34489v1](http://arxiv.org/abs/2611.34489v1)|null|
 |**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432v1](http://arxiv.org/abs/2611.23432v1)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012v1](http://arxiv.org/abs/2611.23012v1)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506v1](http://arxiv.org/abs/2611.22506v1)|null|
